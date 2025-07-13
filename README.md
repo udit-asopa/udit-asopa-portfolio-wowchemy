@@ -2,7 +2,7 @@
 
 Deployment Status --> [![Netlify Status](https://api.netlify.com/api/v1/badges/6d37a925-343e-4ead-b8cc-31a9b6deb9a9/deploy-status)](https://app.netlify.com/projects/uditasopa/deploys)
 
-Visit: **(🌐 Deployed Website 🚀)[https://uditasopa.netlify.app]**
+Visit: **[🌐 Deployed Website 🚀](https://uditasopa.netlify.app)**
 
 
 Welcome to the repository of my **personal website**, a curated digital space showcasing my journey through **geospatial science**, **remote sensing analytics**, **data engineering**, and interdisciplinary innovation. Built with care, clarity, and curiosity, this site is more than a portfolio, it's a **narrative of applied learning, impactful projects, and analytical rigor**.
