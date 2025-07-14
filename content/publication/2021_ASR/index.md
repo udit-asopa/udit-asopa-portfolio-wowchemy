@@ -29,7 +29,7 @@ featured: false
 # links: ""
 # name: ""
 # url: ""
-url_pdf: '[Polarimetric calibration of spaceborne and airborne multifrequency SAR data for scattering-based characterization of manmade and natural features](https://ris.utwente.nl/ws/portalfiles/portal/279236473/1_s2.0_S0273117721001526_main.pdf)'
+url_pdf: 'https://ris.utwente.nl/ws/portalfiles/portal/279236473/1_s2.0_S0273117721001526_main.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''

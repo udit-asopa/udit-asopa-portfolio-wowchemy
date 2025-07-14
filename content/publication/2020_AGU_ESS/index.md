@@ -23,7 +23,7 @@ abstract: Polarimetric synthetic-aperture radar (SAR) remote sensing has been wi
 featured: false
 
 links:
-url_pdf: https://agupubs.onlinelibrary.wiley.com/doi/epdf/10.1029/2020EA001230
+url_pdf: 'https://www.researchgate.net/publication/344291996_UAVSAR_Tomography_for_Vertical_Profile_Generation_of_Tropical_Forest_of_Mondah_National_Park_Gabon'
 url_code: ''
 url_dataset: ''
 url_poster: ''
