@@ -7,12 +7,12 @@ widget: portfolio
 headless: true
 
 # Order that this section appears on the page.
-weight: 4.5
+weight: 5
 
 active: true
 
 title: "**Skills**"
-subtitle: 'Skills that I have acquired/practiced'
+subtitle: 'Skills that I have acquired working with varied project in distributed capacities'
 
 content:
   # Page type to display. E.g. project.
@@ -36,7 +36,7 @@ content:
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
-  columns: '2'
+  columns: '1'
 
   # Toggle between the various page layout types.
   #   1 = List

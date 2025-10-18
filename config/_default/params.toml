@@ -125,7 +125,7 @@ sharing_image = "avatar.png"
 # Twitter username (without @). Used when a visitor shares your site on Twitter.
 twitter = "Udit_Asopa"  # X (formerly Twitter) username
 linkedin = "uditasopa"  # LinkedIn profile URL (without https://www.linkedin.com/in/)
-github = "uditasopaiceye"  # GitHub username
+github = "udit-asopa"  # GitHub username
 
 ############################
 ## Regional Settings

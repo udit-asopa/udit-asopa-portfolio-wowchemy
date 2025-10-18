@@ -7,11 +7,11 @@ widget: pages
 headless: true
 
 # Order that this section appears on the page.
-weight: 7
+weight: 4
 
 active: true
 title: <b>Education, Courses & Certifications</b>
-subtitle: 
+subtitle: <b>All the hackathon, external courses, certifications, conferences that I attended and completed</b>
 
 content:
   # Page type to display. E.g. post, talk, publication...
@@ -33,6 +33,7 @@ content:
   order: desc
 
 design:
+  columns: '1'
   # Choose a view for the listings:
   #   1 = List
   #   2 = Compact

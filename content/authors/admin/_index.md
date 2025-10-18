@@ -68,7 +68,7 @@ social:
   link: https://scholar.google.com/citations?user=pWEISYcAAAAJ&hl=en
 - icon: cv
   icon_pack: ai
-  link: media/Udit_Asopa_CV_detailed.pdf
+  link: media/Udit_Asopa_CV_detailed_V2.pdf
 - icon: twitter
   icon_pack: fab
   link: https://x.com/Udit_Asopa/
@@ -91,4 +91,4 @@ highlight_name: true
 
 I am a SAR Remote Sensing Engineer with over five years of experience in satellite data analytics, SAR and InSAR processing, and GIS-based environmental intelligence. My work spans operational geospatial product development for disaster monitoring (hurricanes, wildfires), ground deformation studies, and environmental change detection using SAR, LiDAR, and optical datasets. I'm passionate about automation, clarity, and leveraging Earth observation for decision support in public and private sectors.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/Udit_Asopa_CV_detailed.pdf" "newtab" >}}detailed resumé{{< /staticref >}} or {{< staticref "media/Udit_Asopa_CV_1page.pdf" "newtab" >}} mini 1 page resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/Udit_Asopa_CV_detailed_V2.pdf" "newtab" >}}detailed resumé{{< /staticref >}} or {{< staticref "media/Udit_Asopa_CV_1page.pdf" "newtab" >}} mini 1 page resumé{{< /staticref >}}.
