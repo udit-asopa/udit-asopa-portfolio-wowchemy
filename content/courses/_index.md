@@ -1,5 +1,5 @@
 ---
-title: n, Courses, Certifications, Hackathon & Workshops
+title: Courses, Certifications, Hackathon & Workshops
 subtitle: Formal degrees, online certifications, and hands-on workshops shaping my cross-domain capabilities in geospatial intelligence, data science, and applied innovation
 layout: docs  # Do not modify.
 

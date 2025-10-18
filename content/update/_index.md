@@ -1,5 +1,5 @@
 ---
-title: Update
+title: 
 
 # View.
 #   1 = List
@@ -9,7 +9,6 @@ view: 2
 
 # Optional header image (relative to `static/media/` folder).
 header:
-  caption: ""
-  image: ""
+  caption: "Updates in life"
+  image: "updates_featured.jpg"
 ---
-Need to include about the interesting ongoings...
