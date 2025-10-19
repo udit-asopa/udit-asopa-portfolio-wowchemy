@@ -24,12 +24,18 @@ bio: I specialize in SAR and GIS-based Earth observation workflows for environme
 
 # Interests to show in About widget
 interests:
-- Remote Sensing
-- SAR Processing
-- GIS and Earth Observation
-- Environmental Monitoring
-- Data Analytics
-- Disaster Response
+- Remote Sensing & GIS Analytics
+- Earth Observation & Satellite Data Science
+- Python Development & Automation
+- Data Science & Machine Learning
+- Geospatial Product Development
+- Real-time Data Analytics & Visualization
+- Product Strategy & Technical Leadership
+- AI-Driven Geospatial Solutions
+- Cross-functional Team Management
+- Scalable Data Pipeline Architecture
+- User-Centric Geospatial Applications
+- Strategic Technology Innovation
 
 # Education to show in About widget
 education:
@@ -43,6 +49,7 @@ education:
   - course: Bachelor of Engineering in Electronics and Communication
     institution: Rajasthan Technical University, India
     year: 2016
+
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -87,8 +94,32 @@ address: Espoo, Finland
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
+
+# Custom CSS for equal column widths
+design:
+  columns: '2'
 ---
 
-I am a SAR Remote Sensing Engineer with over five years of experience in satellite data analytics, SAR and InSAR processing, and GIS-based environmental intelligence. My work spans operational geospatial product development for disaster monitoring (hurricanes, wildfires), ground deformation studies, and environmental change detection using SAR, LiDAR, and optical datasets. I'm passionate about automation, clarity, and leveraging Earth observation for decision support in public and private sectors.
+<style>
+.row .col-md-5,
+.row .col-md-7,
+.about-interests .col,
+.about-education .col {
+  flex: 0 0 50% !important;
+  max-width: 50% !important;
+}
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/Udit_Asopa_CV_detailed_V2.pdf" "newtab" >}}detailed resumé{{< /staticref >}} or {{< staticref "media/Udit_Asopa_CV_1page.pdf" "newtab" >}} mini 1 page resumé{{< /staticref >}}.
+.about-interests,
+.about-education {
+  width: 50% !important;
+  display: inline-block !important;
+  vertical-align: top !important;
+}
+</style>
+
+<div style="text-align: justify;">
+I am a Geospatial AI Engineer actively seeking opportunities to deliver mission-critical solutions at the intersection of Earth observation and artificial intelligence. With 5+ years transforming SAR data into real-time disaster response systems and AI-powered geospatial products, I've built scalable pipelines that protect lives and assets for Fortune 500 insurance companies and government agencies.
+
+From rapid hurricane impact assessment systems to award-winning AI hackathon solutions, I consistently turn complex satellite data into actionable intelligence. I'm ready to bring my unique combination of deep SAR expertise, Python automation skills, and AI innovation to forward-thinking organizations seeking transformative geospatial capabilities that deliver immediate ROI and competitive advantage.
+
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/Udit_Asopa_CV_detailed_V2.pdf" "newtab" >}}detailed resumé{{< /staticref >}} or {{< staticref "media/Udit_Asopa_CV_1page.pdf" "newtab" >}} mini 1 page resumé{{< /staticref >}}. I am seeking new opportunities actively, [**GET IN TOUCH**](/#contact).</div>
