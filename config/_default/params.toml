@@ -13,7 +13,9 @@
 #   Guide to color themes: https://wowchemy.com/docs/customization/#color-themes
 #   Browse the latest built-in font sets at https://github.com/wowchemy/wowchemy-hugo-modules/tree/master/wowchemy/themes/
 #   Browse user installed themes in `data/themes/`
-theme = "minimal"
+theme = "udit_asopa"
+theme_day = "udit_asopa_light"
+theme_night = "udit_asopa"
 
 # Enable users to switch between day and night mode?
 mode = "system"  # Options: auto, light, dark

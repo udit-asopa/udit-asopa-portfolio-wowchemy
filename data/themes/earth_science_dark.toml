@@ -1,0 +1,18 @@
+# Theme metadata
+name = "Professional Dark Teal"
+
+# Is theme light or dark?
+light = false
+
+# Primary
+primary = "#00838F"
+
+# Menu
+menu_primary = "#1f2937"
+menu_text = "#9ca3af" 
+menu_text_active = "#00838F"
+menu_title = "#f9fafb"
+
+# Home sections
+home_section_odd = "rgb(30, 41, 55)"
+home_section_even = "rgb(17, 24, 39)"

@@ -1,0 +1,39 @@
+# Theme metadata
+name = "Udit Asopa Professional Light"
+
+# Is theme light or dark?
+light = true
+
+# Primary (Professional Burgundy)
+primary = "#8E1A1A"
+
+# Menu (Light Mode)
+menu_primary = "#ffffff"
+menu_text = "#34495e"
+menu_text_active = "#8E1A1A"
+menu_title = "#2b2b2b"
+
+# Home sections (Light Mode)
+home_section_odd = "rgb(255, 255, 255)"
+home_section_even = "rgb(247, 247, 247)"
+
+# Background
+background = "#ffffff"
+
+# Text colors
+text = "#333333"
+text_light = "#666666"
+
+# Link colors
+link = "#8E1A1A"
+link_hover = "#A01F1F"
+
+# Button colors
+btn_primary = "#8E1A1A"
+btn_primary_hover = "#A01F1F"
+
+# Accent colors
+accent = "#8E1A1A"
+
+# Card/widget styling
+card_bg = "#ffffff"

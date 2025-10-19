@@ -1,0 +1,18 @@
+# Theme metadata
+name = "Professional Burgundy Light"
+
+# Is theme light or dark?
+light = true
+
+# Light Mode: Burgundy Primary
+primary = "#8E1A1A"
+
+# Menu (Light Mode)
+menu_primary = "#fff"
+menu_text = "#34495e"
+menu_text_active = "#8E1A1A"
+menu_title = "#2b2b2b"
+
+# Home sections (Light Mode)
+home_section_odd = "rgb(255, 255, 255)"
+home_section_even = "rgb(247, 247, 247)"
