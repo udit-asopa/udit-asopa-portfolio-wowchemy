@@ -4,15 +4,39 @@ subtitle: "(*official title: SAR Remote Sensing Engineer*) at ICEYE Oy, Finland"
 summary: At ICEYE, I contributed to the development of geospatial disaster response solutions by leveraging SAR-based analytics, raster processing, and change detection techniques. My work spanned the Hurricane Rapid Impact and Wildfire Insights products, where I generated scalable raster workflows and hexgrid analytics for building-level damage assessment and exposure mapping across affected regions.
 tags:
 - SAR
+- X Band SAR
+- SAR Processing Chains
 - Remote Sensing
 - Change Detection
-- GIS
+- Multi-temporal SAR
 - Raster Analytics
-- X Band SAR
-- Disaster Response
+- Hexgrid Analytics
+- Building Damage Assessment
+- Exposure Mapping
+- GIS
+- Spatial Data Pipelines
 - Data Engineering
-- Insurance
+- Real-time Processing
+- Disaster Response
+- Emergency Response
+- Crisis Management
 - Natural Catastrophe
+- Hurricane
+- Wildfire
+- Insurance
+- Risk Assessment
+- Asset Management
+- Product Development
+- Technical Leadership
+- Cross-functional Teams
+- Agile Methodology
+- Industry Application
+- Geospatial Intelligence
+- Innovation
+- Problem Solving
+- Client Solutions
+- Stakeholder Engagement
+- Performance Optimization
 
 date: "2025-07-01"
 

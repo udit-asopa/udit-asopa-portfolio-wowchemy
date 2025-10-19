@@ -22,7 +22,7 @@ image:
 
 links:
 url_code: ""
-url_pdf: ""
+url_pdf: "https://www.iceye.com/hubfs/_SOLUTIONS/Wildfire%20Insights%202023%20-%20ICEYE%20Government%20Solutions%202-pager.pdf"
 url_slides: ""
 url_video: "https://www.iceye.com/hubfs/ICEYE_WILDFIRE_INSURANCE_ONLINE_NET_16-9_captioned_FINAL04.mp4"
 ---

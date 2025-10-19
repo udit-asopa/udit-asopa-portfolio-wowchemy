@@ -5,19 +5,46 @@ subtitle: Hands-on Learning Through **Innovation and Collaboration**
 summary: A showcase of hackathons that amplified my expertise in Artificial Intelligence, machine learning, geospatial intelligence, LiDAR, and entrepreneurship—focusing on real-world data challenges and interdisciplinary teamwork in forestry and environmental domains.
 tags:
 - Hackathon
+- Innovation
+- Competitive Programming
+- Rapid Prototyping
+- Team Collaboration
+- Cross-functional Teams
 - LiDAR
 - Point Cloud
+- 3D Reconstruction
 - Finnish Forests
-- Artifical Intelligence AI
-- Generative AI
-- Machine Learning
-- Geospatial Analytics
-- Biodiversity Monitoring
-- Remote Sensing
-- NLS
+- Forest Monitoring
 - Forest Data
-- Spatial AI
+- Biodiversity Monitoring
 - Environmental Data Science
+- Artificial Intelligence
+- AI
+- Generative AI
+- Large Language Models (LLMs)
+- Machine Learning
+- Deep Learning
+- Computer Vision
+- Geospatial Analytics
+- Spatial AI
+- Remote Sensing
+- Earth Observation
+- Environmental Monitoring
+- NLS
+- Finnish National Land Survey
+- Problem Solving
+- Creative Problem Solving
+- Design Thinking
+- Innovation Labs
+- Startup Experience
+- Entrepreneurship
+- Product Development
+- User Experience Design
+- Technical Writing
+- Presentation Skills
+- Public Speaking
+- Networking
+- Community Building
 - Entrepreneurship
 - Team Collaboration
 - Forestry Innovation

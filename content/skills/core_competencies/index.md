@@ -6,18 +6,44 @@ summary: The foundational pillars shaping my geospatial and data-driven problem-
 tags:
 - Geospatial Intelligence
 - Remote Sensing
+- Earth Observation
 - SAR
 - InSAR
+- SAR Interferometry
 - PolSAR
+- Polarimetric SAR
+- X Band SAR
+- Multi-temporal SAR
 - LULC Analysis
+- Land Use Land Cover
+- Classification
+- Image Classification
 - DEM & Terrain Modeling
+- Digital Elevation Models
+- Terrain Analysis
+- 3D Reconstruction
 - Disaster Mapping
+- Disaster Response
+- Emergency Response
 - Urban Climate
+- Climate Science
+- Environmental Monitoring
 - Cryosphere Monitoring
 - Forest Monitoring
+- Biodiversity Monitoring
 - Change Detection
+- Multi-temporal Analysis
 - Raster Analytics
 - Spatial Data Pipelines
+- GIS
+- Spatial Statistics
+- Geostatistics
+- Spatial Modeling
+- Advanced Geospatial Analysis
+- Technical Expertise
+- Core Competencies
+- Subject Matter Expertise
+- Professional Development
 - Machine Learning
 - Spatial Statistics
 - Multiscale Modeling

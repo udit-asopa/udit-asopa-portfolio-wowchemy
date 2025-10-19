@@ -3,21 +3,52 @@ title: 🧰 Toolchain & Technologies ⚙️
 summary: The tech stack I leverage to process, analyze, visualize, and deliver insights.
 tags:
 - Python
+- Python Development
+- Programming
+- JavaScript
+- R Programming
+- MATLAB
+- Shell Scripting
+- Software Development
 - Geospatial Tools
 - Remote Sensing
 - Earth Observation
-- Data Analytics
-- Power BI
+- GIS
 - QGIS
 - ArcGIS
 - Google Earth Engine
+- Cloud AI Services
 - SAR Processing
-- Raster Analytics
-- Cloud Platforms
-- Data Engineering
-- GDAL
+- SAR Processing Chains
 - SNAP
 - SARscape
+- GDAL
+- Raster Analytics
+- Spatial Data Pipelines
+- Data Analytics
+- Data Science
+- Statistical Analysis
+- Power BI
+- Data Visualization
+- Data Engineering
+- ETL Pipelines
+- Database Management
+- Cloud Platforms
+- AWS
+- Google Cloud Platform
+- Microsoft Azure
+- Docker
+- Kubernetes
+- Version Control
+- Git & GitHub
+- CI/CD
+- DevOps
+- MLOps
+- API Development
+- Technical Tools
+- Software Stack
+- Development Environment
+- Performance Optimization
 - SQL
 - Visualization
 - Jupyter

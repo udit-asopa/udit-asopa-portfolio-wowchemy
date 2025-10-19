@@ -3,24 +3,74 @@ title: InSAR Applications
 summary: My work with InSAR focuses on detecting and analyzing ground displacement using radar remote sensing techniques such as DInSAR and PSInSAR. I’ve developed and implemented workflows for processing satellite SAR data, enabling accurate monitoring of subsidence, tectonic motion, and anthropogenic changes. These efforts have supported environmental and geophysical studies across varied terrains using Sentinel-1 and TerraSAR-X datasets.
 tags:
 - InSAR
-- Mapping Displacement
-- Earth Observation
-- Ground Deformation
-- Ground Stability
+- SAR Interferometry
+- DInSAR
+- PSInSAR
 - SAR
+- X Band SAR
+- SAR Processing Chains
+- Phase Analysis
+- Coherence Analysis
+- Multi-temporal SAR
+- Time Series Analysis
+- Ground Deformation
+- Ground Displacement
+- Ground Stability
+- Subsidence Monitoring
+- Tectonic Motion
+- Earth Observation
 - Remote Sensing
+- Sentinel-1
+- TerraSAR-X
+- Spaceborne Platforms
+- Raster Analytics
+- Spatial Data Pipelines
+- Geophysical Modeling
+- Environmental Monitoring
+- Infrastructure Monitoring
+- Change Detection
+- Digital Elevation Models
+- Terrain Analysis
+- Geodesy
+- Mapping Displacement
 - Scientific Communication
 - Geospatial Intelligence
+- Technical Writing
+- Research Experience
 date: "2020-12-12"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
 
 image:
-  caption: 'InSAR Mapping: [InSAR Stanford](https://web.stanford.edu/group/radar/radarbeams.jpeg)'
+  caption: 'InSAR Mapping: [Uplift monitoring of geothermal and magmatic reservoirs. (T. Walter, GFZ)](https://www.gfz.de/fileadmin/_processed_/7/7/csm_lab_Volcano_InSAR_1_8af6abeb2d.webp)'
   focal_point: Smart
 
 links:
+- icon: github
+  icon_pack: fab
+  name: pygmtsar
+  url: https://github.com/udit-asopa/pygmtsar
+- icon: github
+  icon_pack: fab
+  name: MATLAB InSAR
+  url: https://github.com/udit-asopa/EZ-InSAR.git
+- icon: github
+  icon_pack: fab
+  name: PLAnT ISCE3
+  url: https://github.com/udit-asopa/plant-isce3.git
+- icon: book
+  icon_pack: fas
+  name: PSInSAR TSX
+  url: https://doi.org/10.5194/isprs-annals-IV-5-245-2018
+- icon: book
+  icon_pack: fas
+  name: DInSAR S1
+  url: https://doi.org/10.3390/IECG2019-06230
+- icon: book
+  icon_pack: fas
+  name: Subscidence Modelling
+  url: https://ui.adsabs.harvard.edu/abs/2020AGUFMT012.0007W
 url_publication: ""
 url_code: ""
 url_pdf: ""

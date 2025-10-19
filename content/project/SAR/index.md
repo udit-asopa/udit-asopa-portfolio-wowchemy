@@ -4,15 +4,31 @@ summary: My work in SAR focuses on advancing techniques like polarimetric decomp
 tags:
 - SAR
 - SAR Polarimetry
+- Polarimetric SAR
+- SAR Processing Chains
+- SAR Calibration
+- PolSAR Calibration
+- SAR Tomography
 - Compressive Sensing
 - Signal Processing
 - Fourier Transform
-- PolSAR Calibration
+- Multi-temporal SAR
+- Coherence Analysis
+- Phase Analysis
+- Backscatter Analysis
 - UAVSAR
 - TerraSAR-X
+- Airborne Sensors
+- Spaceborne Platforms
 - Remote Sensing
+- Advanced Geospatial Analysis
+- 3D Reconstruction
 - Scientific Communication
 - Geospatial Intelligence
+- Research Experience
+- Academic Publications
+- Technical Writing
+- Experimental Design
 date: "2021-02-23"
 
 # Optional external URL for project (replaces project detail page).
@@ -23,6 +39,22 @@ image:
   focal_point: Smart
 
 links:
+- icon: github
+  icon_pack: fab
+  name: Code
+  url: https://github.com/udit-asopa/pygmtsar
+- icon: book
+  icon_pack: fas
+  name: UAVSAR Tomography
+  url: https://doi.org/10.1029/2020ea001230
+- icon: book
+  icon_pack: fas
+  name: Polarimetric Calibration
+  url: https://doi.org/10.1016/j.asr.2021.02.023
+- icon: book
+  icon_pack: fas
+  name: Polarimetric Decomposition
+  url: https://doi.org/10.1007/978-3-030-37393-1_28
 url_code: ""
 url_pdf: ""
 url_slides: ""

@@ -25,12 +25,12 @@ featured: false
 links:
 url_pdf: 'https://www.researchgate.net/publication/344291996_UAVSAR_Tomography_for_Vertical_Profile_Generation_of_Tropical_Forest_of_Mondah_National_Park_Gabon'
 url_code: ''
-url_dataset: ''
+url_dataset: 'https://uavsar.jpl.nasa.gov/cgi-bin/product.pl?jobName=forfiv_27081_01#data'
 url_poster: ''
 url_project: ''
 url_slides: ''
 url_source: ''
-url_video: ''
+url_video: 'https://www.youtube.com/watch?v=xBrH8RC502w'
 
 
 projects: [SAR]

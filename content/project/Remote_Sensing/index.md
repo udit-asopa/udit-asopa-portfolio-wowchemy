@@ -19,6 +19,18 @@ image:
   focal_point: Smart
 
 links:
+- icon: github
+  icon_pack: fab
+  name: pygmtsar
+  url: https://github.com/udit-asopa/pygmtsar
+- icon: github
+  icon_pack: fab
+  name: LiDAR processer
+  url: https://github.com/udit-asopa/lidar_data_processer_and_sampler
+- icon: book
+  icon_pack: fas
+  name: Documentation
+  url: https://doi.nrct.go.th/admin/doc/doc_629765.pdf
 url_code: ""
 url_pdf: ""
 url_slides: ""

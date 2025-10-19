@@ -3,7 +3,7 @@ title: "Multi Frequency Polarimetric Decomposition of UAVSAR Data"
 authors:
 - admin
 - Shashi Kumar
-date: "2020-02-23"
+date: "2019-04-05"
 doi: "10.1007/978-3-030-37393-1_28"
 
 # Publication type.
@@ -23,9 +23,9 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: ''
+url_pdf: 'https://www.doi.org/10.1007/978-3-030-37393-1_28'
 url_code: ''
-url_dataset: ''
+url_dataset: 'https://uavsar.jpl.nasa.gov/cgi-bin/data.pl?search=P20140928'
 url_poster: ''
 url_project: ''
 url_slides: ''

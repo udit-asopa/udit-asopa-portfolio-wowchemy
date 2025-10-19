@@ -3,21 +3,51 @@ title: 🎯 Operational Strengths
 subtitle: "**Operational Excellence in Action** - Strategic thinking, collaborative execution, and process efficiency, all converging to deliver impactful outcomes within tight deadlines."
 summary: I excel in delivering tactical and strategic solutions within high-performing, cross-disciplinary teams by combining analytical rigor, clear communication, and outcome-oriented execution.
 tags:
+- Operational Excellence
+- Strategic Thinking
+- Tactical Solutions
+- Cross-functional Leadership
+- Technical Leadership
+- Team Management
+- Cross-functional Teams
+- Stakeholder Communication
+- Stakeholder Engagement
+- Executive Communication
+- Process Automation
+- Process Efficiency
+- Workflow Optimization
+- Performance Optimization
+- Technical Reporting
+- Scientific Communication
+- Data Storytelling
+- Presentation Skills
 - Remote Sensing
 - SAR
+- X Band SAR
+- InSAR
 - Change Detection
 - Raster Analytics
 - GIS
-- Cross-functional Leadership
-- Process Automation
-- Stakeholder Communication
-- Technical Reporting
 - Earth Observation
 - Disaster Response
-- Operational Excellence
-- X Band SAR
+- Emergency Response
 - Insurance
-- InSAR
+- Risk Assessment
+- Project Management
+- Agile Methodology
+- Deadline Management
+- Time Management
+- Priority Setting
+- Problem Solving
+- Decision Making
+- Quality Assurance
+- Performance Management
+- Continuous Improvement
+- Best Practices
+- Innovation
+- Collaborative Execution
+- Analytical Rigor
+- Outcome-oriented Execution
 - Ground Stability
 - Natural Catastrophe
 - Geospatial Intelligence

@@ -27,7 +27,7 @@ featured: false
 links:
 url_pdf: https://mdpi-res.com/d_attachment/proceedings/proceedings-24-00025/article_deploy/proceedings-24-00025-v3.pdf?version=1581986976
 url_code: ''
-url_dataset: ''
+url_dataset: 'https://browser.dataspace.copernicus.eu/'
 url_poster: ''
 url_project: ''
 url_slides: ''

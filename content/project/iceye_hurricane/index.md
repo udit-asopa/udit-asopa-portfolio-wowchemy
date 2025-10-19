@@ -3,17 +3,36 @@ title: ICEYE Hurricane Solution
 summary: ICEYE’s Hurricane Rapid Impact product provides near-real-time geospatial insights following hurricane landfall, with a focus on populated coastal areas across the USA and inhabited territories. My contributions focused on developing and deploying SAR-based raster analytics and hexgrid-level change detection to support rapid disaster response.
 tags:
 - SAR
-- Change Detection
-- ICEYE
 - X Band SAR
+- SAR Processing Chains
+- Change Detection
+- Multi-temporal SAR
+- Raster Analytics
+- Hexgrid Analytics
+- Building Damage Assessment
+- Exposure Mapping
+- ICEYE
 - Remote Sensing
+- Geospatial Intelligence
 - Hurricane
 - Cyclone
 - Tropical Storm
 - Natural Catastrophe
+- Disaster Response
+- Emergency Response
+- Crisis Management
+- Early Warning Systems
+- Risk Assessment
+- Vulnerability Assessment
 - Insurance
+- Asset Management
+- Real-time Processing
+- Data Engineering
+- Spatial Data Pipelines
 - Scientific Communication
-- Geospatial Intelligence
+- Technical Leadership
+- Product Development
+- Industry Application
 date: "2025-07-01"
 
 # Optional external URL for project (replaces project detail page).
@@ -23,11 +42,11 @@ image:
   caption: 'ICEYE Hurricane Solution [Source: ICEYE Oy](https://www.iceye.com/solutions/insurance/hurricane-solution)'
   focal_point: Smart
 
-links:
+links: 
 url_code: ""
-url_pdf: ""
+url_pdf: "https://www.iceye.com/hubfs/Hurricane%20Impact%202025%20-%20ICEYE%20Insurance%20Solutions%202-pager_A4_web.pdf"
 url_slides: ""
-url_video: ""
+url_video: "https://www.youtube.com/watch?v=3pQzR84r09k"
 
 # Slides (optional).
 #   Associate this project with Markdown slides.

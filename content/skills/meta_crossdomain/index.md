@@ -3,21 +3,52 @@ title: 🌍 Meta-Skills for Cross-Domain Fluency
 subtitle: Intersection of Technical Expertise, Strategic Thinking, and Communication - Core to Cross-Domain Fluency
 summary: The transferable capabilities bridging Earth science, data science, and strategic decision-making.
 tags:
-- Scientific Communication
-- Analytical Thinking
-- Remote Collaboration
-- Stakeholder Engagement
+- Meta-Skills
+- Cross-Domain Fluency
 - Cross-Disciplinary Skills
+- Interdisciplinary Collaboration
+- Scientific Communication
+- Technical Writing
+- Data Storytelling
+- Analytical Thinking
+- Critical Thinking
+- Strategic Thinking
+- Systems Thinking
+- Remote Collaboration
+- Cross-cultural Communication
+- International Collaboration
+- Stakeholder Engagement
+- Executive Communication
+- Presentation Skills
+- Public Speaking
 - Adaptability
+- Flexibility
+- Continuous Learning
+- Knowledge Transfer
 - Geospatial Intelligence
-- Research Methods
-- Team Communication
-- Decision Support
-- Innovation
 - Earth Observation
+- Remote Sensing
+- Research Methods
+- Research Experience
+- Experimental Design
 - Data Science
+- Decision Support
+- Decision Making
+- Team Communication
+- Cross-functional Teams
+- Leadership
+- Innovation
+- Creative Problem Solving
+- Problem Solving
+- Change Management
+- Technology Transfer
+- Bridge Building
+- Domain Translation
 - ESRI
-date: "2020-12-12"
+- GIS
+- Professional Development
+- Soft Skills
+date: "2025-07-01"
 
 image:
   caption: 'Professional Development for Competencies: [*Source: 4dedu.org*](https://4dedu.org/competencies-professional-development/)'

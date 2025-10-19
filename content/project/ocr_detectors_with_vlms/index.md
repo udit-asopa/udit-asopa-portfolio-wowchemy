@@ -4,16 +4,42 @@ summary: A comprehensive CLI tool that extracts text from images and documents u
 tags:
 - OCR
 - Computer Vision
-- AI
-- Machine Learning
+- Object Detection
 - Text Extraction
 - Document Processing
-- Python
+- AI
+- Artificial Intelligence
+- Machine Learning
+- Deep Learning
+- Vision-Language Models
+- Multimodal AI
+- Large Language Models (LLMs)
+- Natural Language Processing
 - OpenAI
 - LLaVA
 - SmolVLM
-- CLI Tool
+- Foundation Models
+- Python
+- Python Development
+- CLI Tools
+- Command Line Interface
 - Open Source
+- GitHub
+- Software Development
+- API Development
+- Model Deployment
+- Edge AI
+- Local Processing
+- Cloud AI Services
+- Privacy Protection
+- Data Privacy
+- Document Digitization
+- Automation
+- Business Documents
+- Enterprise Applications
+- Technical Writing
+- Innovation
+- Problem Solving
 date: "2025-10-17"
 
 # Optional external URL for project (replaces project detail page).

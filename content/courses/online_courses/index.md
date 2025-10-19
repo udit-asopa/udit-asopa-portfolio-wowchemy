@@ -5,21 +5,43 @@ subtitle: Specialized learning in geospatial data, programming, project delivery
 summary: An interdisciplinary learning path spanning remote sensing, data science, version control, and project management. These certified courses expand my technical fluency, coding confidence, and team-oriented delivery practices—shaping a well-rounded professional profile.
 tags:
 - Remote Sensing
+- Earth Observation
 - Google Earth Engine
+- Cloud AI Services
 - Python
+- Python Development
+- Programming
 - Git & GitHub
-- Project Management
-- Data Science
 - Version Control
+- Software Development
+- Project Management
+- Agile Methodology
+- Data Science
 - Machine Learning
 - Pandas
 - NumPy
+- Data Analysis
+- Statistical Analysis
 - Team Management
+- Technical Leadership
 - Classification
+- Image Classification
 - Spectral Indices
+- Multi-spectral Analysis
 - CI/CD
 - DevOps
+- MLOps
 - Adaptive Leadership
+- Professional Development
+- Course Completions
+- Technical Certifications
+- Continuous Learning
+- Skill Development
+- Online Learning
+- Educational Technology
+- Knowledge Transfer
+- Best Practices
+- Quality Assurance
 date: "2025-10-18"
 external_link: ""
 
