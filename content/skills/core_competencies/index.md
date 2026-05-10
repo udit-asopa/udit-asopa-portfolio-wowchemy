@@ -5,52 +5,35 @@ subtitle: "**Foundational capabilities** shaping my geospatial, analytical, and 
 summary: The foundational pillars shaping my geospatial and data-driven problem-solving approach
 tags:
 - Geospatial Intelligence
-- Remote Sensing
 - Earth Observation
+- Remote Sensing
+- Geospatial AI
 - SAR
 - InSAR
-- SAR Interferometry
-- PolSAR
 - Polarimetric SAR
 - X Band SAR
 - Multi-temporal SAR
+- Change Detection
 - LULC Analysis
-- Land Use Land Cover
-- Classification
+- Raster Analytics
 - Image Classification
-- DEM & Terrain Modeling
-- Digital Elevation Models
-- Terrain Analysis
-- 3D Reconstruction
-- Disaster Mapping
-- Disaster Response
-- Emergency Response
-- Urban Climate
-- Climate Science
+- DEM and Terrain Modeling
+- Spatial Modeling
+- Spatial Statistics
+- Geostatistics
+- Multi-scale Analysis
+- Climate Analytics
 - Environmental Monitoring
+- Disaster Response
+- Emergency Mapping
+- Urban Climate
 - Cryosphere Monitoring
 - Forest Monitoring
 - Biodiversity Monitoring
-- Change Detection
-- Multi-temporal Analysis
-- Raster Analytics
-- Spatial Data Pipelines
-- GIS
-- Spatial Statistics
-- Geostatistics
-- Spatial Modeling
-- Advanced Geospatial Analysis
-- Technical Expertise
-- Core Competencies
-- Subject Matter Expertise
-- Professional Development
-- Machine Learning
-- Spatial Statistics
-- Multiscale Modeling
-- Earth Observation
-- Spatial Risk Profiling
 - Satellite Imagery
-- ESRI
+- Spatial Risk Profiling
+- GIS
+- Machine Learning
 date: "2025-07-01"
 external_link: ""
 

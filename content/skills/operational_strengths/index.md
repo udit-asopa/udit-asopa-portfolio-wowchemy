@@ -4,55 +4,35 @@ subtitle: "**Operational Excellence in Action** - Strategic thinking, collaborat
 summary: I excel in delivering tactical and strategic solutions within high-performing, cross-disciplinary teams by combining analytical rigor, clear communication, and outcome-oriented execution.
 tags:
 - Operational Excellence
-- Strategic Thinking
-- Tactical Solutions
+- Strategic Execution
 - Cross-functional Leadership
 - Technical Leadership
-- Team Management
-- Cross-functional Teams
-- Stakeholder Communication
 - Stakeholder Engagement
+- Stakeholder Communication
 - Executive Communication
-- Process Automation
-- Process Efficiency
-- Workflow Optimization
-- Performance Optimization
-- Technical Reporting
-- Scientific Communication
-- Data Storytelling
-- Presentation Skills
-- Remote Sensing
-- SAR
-- X Band SAR
-- InSAR
-- Change Detection
-- Raster Analytics
-- GIS
-- Earth Observation
-- Disaster Response
-- Emergency Response
-- Insurance
-- Risk Assessment
 - Project Management
-- Agile Methodology
-- Deadline Management
+- Agile Delivery
+- Priority Management
 - Time Management
-- Priority Setting
-- Problem Solving
-- Decision Making
+- Rapid Response
+- Process Optimization
+- Workflow Automation
+- Continuous Improvement
 - Quality Assurance
 - Performance Management
-- Continuous Improvement
-- Best Practices
-- Innovation
-- Collaborative Execution
-- Analytical Rigor
-- Outcome-oriented Execution
-- Ground Stability
-- Natural Catastrophe
+- Analytical Problem Solving
+- Decision Making
+- Data Storytelling
+- Technical Reporting
 - Geospatial Intelligence
-- Geospatial Strategy
-- ESRI
+- Earth Observation
+- Remote Sensing
+- SAR
+- InSAR
+- Change Detection
+- Risk Assessment
+- Disaster Response
+- Insurance Analytics
 date: "2025-07-01"
 
 external_link: ""
