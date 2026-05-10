@@ -4,6 +4,13 @@ All notable changes to this repository are documented in this file.
 
 ## Future changes
 
+### Planned
+- Execute Phase 1 cleanup (unused media files, system files, demo content)
+- Review Phase 2 decisions (professional_courses, talk, slides directories)
+- See [CLEANUP_PLAN.md](docs/CLEANUP_PLAN.md) for comprehensive deep-dive analysis
+
+## 2026-05-10 (Continued)
+
 ### Update
 - update the recent section
 - update the `updates` section properly
