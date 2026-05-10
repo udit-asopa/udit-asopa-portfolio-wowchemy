@@ -11,6 +11,17 @@ All notable changes to this repository are documented in this file.
 
 ## 2026-05-10
 
+### Removed
+- Removed `exampleSite/` directory (unused example template structure).
+- Removed `public/` directory (build output, auto-regenerated on each build).
+- Removed `resources/` directory (Hugo cache, auto-generated).
+- Removed `scripts/` directory (only contained `init_kickstart.sh`, one-time use).
+- Removed system files: `.DS_Store`, `.hugo_build.lock`, `isce.log`.
+- Removed unused config files: `academic.Rproj`, `package-lock.json`.
+
+### Changed
+- Repository structure now streamlined and cleaner with only essential directories and files.
+
 ### Changed
 - Updated CV-related references in `content/authors/admin/_index.md`.
 - Updated contact detail of email and call in `content/authors/admin/_index.md`.
