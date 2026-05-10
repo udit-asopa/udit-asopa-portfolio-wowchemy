@@ -1,5 +1,5 @@
 ---
-title: 🧰 Toolchain & Technologies ⚙️
+title: Toolchain and Technologies
 summary: The tech stack I leverage to process, analyze, visualize, and deliver insights.
 tags:
 - Python
@@ -64,11 +64,11 @@ url_video: ""
 
 <table style="border-collapse: collapse; width: 100%;">
   <tr>
-    <td><strong>🐍 Coding & Analysis</strong></td>
-    <td><strong>🧭 Geospatial & EO Tools</strong></td>
-    <td><strong>☁️ Cloud & Dev Platforms</strong></td>
-    <td><strong>📊 Visualization & Reporting</strong></td>
-    <td><strong>🛠️ Integration & Ops</strong></td>
+    <td><strong>Coding and Analysis</strong></td>
+    <td><strong>Geospatial and EO Tools</strong></td>
+    <td><strong>Cloud and Development Platforms</strong></td>
+    <td><strong>Visualization and Reporting</strong></td>
+    <td><strong>Integration and Operations</strong></td>
   </tr>
   <tr>
     <td>

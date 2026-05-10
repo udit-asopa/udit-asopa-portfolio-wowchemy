@@ -1,5 +1,5 @@
 ---
-title: 🚀 Delivery Environments
+title: Delivery Environments
 subtitle: "How I transform raw data into trusted, impact-driven outcomes through automation, reproducibility, and clear documentation"
 summary: I design and maintain robust data delivery environments that convert raw geospatial and remote sensing inputs into operational intelligence. From scalable SAR raster pipelines to collaborative dashboards and feature‑rich fusion outputs.
 tags:
@@ -60,11 +60,11 @@ Holistic delivery workflows—from raw satellite ingestion to user‑ready geosp
 
 <table style="border-collapse: collapse; width: 100%; margin: 0;">
   <tr>
-    <td><strong>🧱 Disaster Response Products</strong></td>
-    <td><strong>🖼️ Visual Dashboards & Insights</strong></td>
-    <td><strong>🔁 Automated Pipelines</strong></td>
-    <td><strong>🧬 Data Fusion Techniques</strong></td>
-    <td><strong>📁 Documentation & Reproducibility</strong></td>
+    <td><strong>Disaster Response Products</strong></td>
+    <td><strong>Visual Dashboards and Insights</strong></td>
+    <td><strong>Automated Pipelines</strong></td>
+    <td><strong>Data Fusion Techniques</strong></td>
+    <td><strong>Documentation and Reproducibility</strong></td>
   </tr>
   <tr>
     <td style="padding: 0.5rem;">

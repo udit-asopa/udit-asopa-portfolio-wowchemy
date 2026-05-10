@@ -1,6 +1,6 @@
 ---
 
-title: 🌍 Core Competencies 🛰️
+title: Core Competencies
 subtitle: "**Foundational capabilities** shaping my geospatial, analytical, and earth observation practice"
 summary: The foundational pillars shaping my geospatial and data-driven problem-solving approach
 tags:
@@ -55,11 +55,11 @@ Remote sensing fuels modern geospatial intelligence—bridging environmental mon
 
 <table style="border-collapse: collapse; width: 100%;">
   <tr>
-    <td><strong>🛰️ Geospatial Intelligence</strong></td>
-    <td><strong>📡 Remote Sensing Applications</strong></td>
-    <td><strong>🔄 Raster Workflow Engineering</strong></td>
-    <td><strong>📊 Statistical & ML Methods</strong></td>
-    <td><strong>🌐 Multiscale Analysis</strong></td>
+    <td><strong>Geospatial Intelligence</strong></td>
+    <td><strong>Remote Sensing Applications</strong></td>
+    <td><strong>Raster Workflow Engineering</strong></td>
+    <td><strong>Statistical and ML Methods</strong></td>
+    <td><strong>Multiscale Analysis</strong></td>
   </tr>
   <tr>
     <td>

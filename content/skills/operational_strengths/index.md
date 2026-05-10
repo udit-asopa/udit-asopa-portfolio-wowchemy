@@ -1,5 +1,5 @@
 ---
-title: 🎯 Operational Strengths
+title: Operational Strengths
 subtitle: "**Operational Excellence in Action** - Strategic thinking, collaborative execution, and process efficiency, all converging to deliver impactful outcomes within tight deadlines."
 summary: I excel in delivering tactical and strategic solutions within high-performing, cross-disciplinary teams by combining analytical rigor, clear communication, and outcome-oriented execution.
 tags:
@@ -52,11 +52,11 @@ My strengths lie in breaking down complex challenges into actionable steps, alig
 
 <table style="border-collapse: collapse; width: 100%; margin: 1rem 0;">
   <tr>
-    <td><strong>🕵️‍♂️ Analytical Problem Solving</strong></td>
-    <td><strong>🧩 Cross‑Team Coordination</strong></td>
-    <td><strong>🧠 Process Optimization</strong></td>
-    <td><strong>📣 Effective Communication</strong></td>
-    <td><strong>⚡ Rapid Turnaround</strong></td>
+    <td><strong>Analytical Problem Solving</strong></td>
+    <td><strong>Cross-Team Coordination</strong></td>
+    <td><strong>Process Optimization</strong></td>
+    <td><strong>Effective Communication</strong></td>
+    <td><strong>Rapid Turnaround</strong></td>
   </tr>
   <tr>
     <td>

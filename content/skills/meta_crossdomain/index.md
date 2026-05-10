@@ -1,5 +1,5 @@
 ---
-title: 🌍 Meta-Skills for Cross-Domain Fluency
+title: Meta-Skills for Cross-Domain Fluency
 subtitle: Intersection of Technical Expertise, Strategic Thinking, and Communication - Core to Cross-Domain Fluency
 summary: The transferable capabilities bridging Earth science, data science, and strategic decision-making.
 tags:
@@ -40,11 +40,11 @@ image:
 
 <table style="border-collapse: collapse; width: 100%;">
   <tr>
-    <td><strong>🔭 Scientific Intuition</strong></td>
-    <td><strong>🤝 Stakeholder Engagement</strong></td>
-    <td><strong>🧠 Curiosity-Driven Learning</strong></td>
-    <td><strong>🧾 Clear Reporting & Synthesis</strong></td>
-    <td><strong>🌐 Adaptive Thinking</strong></td>
+    <td><strong>Scientific Intuition</strong></td>
+    <td><strong>Stakeholder Engagement</strong></td>
+    <td><strong>Curiosity-Driven Learning</strong></td>
+    <td><strong>Clear Reporting and Synthesis</strong></td>
+    <td><strong>Adaptive Thinking</strong></td>
   </tr>
   <tr>
     <td>
