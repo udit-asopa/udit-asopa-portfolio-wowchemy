@@ -11,6 +11,12 @@ All notable changes to this repository are documented in this file.
 
 ## 2026-05-10
 
+### Changed
+- Updated CV-related references in `content/authors/admin/_index.md`.
+- Updated contact detail of email and call in `content/authors/admin/_index.md`.
+
+## 2026-05-10
+
 ### Added
 - Added consolidated CV file at `static/media/UditAsopa_CV.pdf`.
 

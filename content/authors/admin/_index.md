@@ -56,7 +56,10 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '/#contact'
+  link: 'mailto:udit.asopa@gmail.com'
+- icon: phone
+  icon_pack: fas
+  link: 'tel:+358403515447'
 - icon: whatsapp
   icon_pack: fab
   link: https://wa.me/+358403515447/
@@ -73,7 +76,7 @@ social:
   link: https://scholar.google.com/citations?user=pWEISYcAAAAJ&hl=en
 - icon: cv
   icon_pack: ai
-  link: media/Udit_Asopa_CV_detailed_V2.pdf
+  link: media/UditAsopa_CV.pdf
   download: true
 - icon: youtube
   icon_pack: fab
@@ -90,7 +93,7 @@ social:
 
 # Contact details
 email: udit.asopa@gmail.com
-phone: "+358-403515447"
+phone: +358-403515447
 address: Espoo, Finland
 
 # Highlight the author in author lists? (true/false)
