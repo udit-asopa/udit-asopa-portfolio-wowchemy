@@ -2,6 +2,24 @@
 
 All notable changes to this repository are documented in this file.
 
+## Future changes
+
+### Update
+- update the recent section
+- update the `updates` section properly
+- update the certificate/courses section with new achievements
+
+## 2026-05-10
+
+### Added
+- Added consolidated CV file at `static/media/UditAsopa_CV.pdf`.
+
+### Changed
+- Standardized CV links to use `static/media/UditAsopa_CV.pdf` across site configuration and profile content.
+- Updated contact details (address) in `config/_default/params.toml`.
+- Updated CV-related references in `config/_default/menus.toml`.
+- Updated CV-related references in `content/authors/admin/_index.md`.
+
 ## 2026-05-10
 
 ### Added

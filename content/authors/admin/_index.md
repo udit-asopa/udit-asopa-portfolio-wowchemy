@@ -125,5 +125,5 @@ Across organizations including Brockmann Geomatics and ICEYE, I have built scala
 
 I am particularly passionate about solving meaningful problems at the intersection of data science, AI, and Earth observation, whether for environmental sustainability, climate applications, business analytics, or scientific computing.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/Udit_Asopa_CV_detailed_V2.pdf" "newtab" >}}detailed resumé{{< /staticref >}} or {{< staticref "media/Udit_Asopa_CV_1page.pdf" "newtab" >}}mini 1-page resumé{{< /staticref >}}. I am actively seeking new opportunities, [**GET IN TOUCH**](/#contact).
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/UditAsopa_CV.pdf" "newtab" >}}detailed CV{{< /staticref >}}. I am always curious to know about interesting projects, collaboration opportunities, and seeking new adventures  [**GET IN TOUCH**](/#contact).
 </div>
