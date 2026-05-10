@@ -4,21 +4,33 @@ All notable changes to this repository are documented in this file.
 
 ---
 
-## 2026-05-10 (Content Quality Enhancement)
+## 2026-05-10 (Content Quality Enhancement — Phase 2)
 
 **Branch:** `feat/cleaning_content`
+**Commits:** `bd3dadb`, `93443c3`, `57f815d`, `9bf0fa0`
 
 ### Improved
 - Refined homepage section subtitles for stronger clarity and consistency across Skills, Projects, Education, Publications, Updates, and Contact widgets.
 - Polished profile wording in the author page for a more professional and concise presentation.
 - Improved selected skills page copy to reduce repetition and sharpen messaging.
+- Unified and enriched tag taxonomy across all 5 skills pages (~174 redundant/inconsistent tags replaced with ~90 clean, canonical terms).
+- Normalized and enriched tags across 6 project pages (SAR, InSAR, Remote Sensing, OCR/VLMs, ICEYE Hurricane, ICEYE Wildfire) and 2 experience pages (ICEYE, Brockmann Consult) using domain/method/application/tool layering.
+- Added tag governance rules to `docs/HUGO_FRAMEWORK.md` (Title Case standard, acronym casing, target tag counts, anti-patterns).
 
 ### Fixed
 - Corrected ICEYE experience logo reference to an existing media asset (`media/iceye.jpg`) to prevent broken image rendering.
 - Normalized location formatting (`Delft, Netherlands`) and cleaned spacing in experience descriptions.
 
+### Removed
+- Stripped all decorative emojis from content files across the site:
+  - `content/courses/` — titles, section headers, bullet points, and flag emojis in 4 files.
+  - `content/skills/` — page titles and table header decorations in 5 files.
+  - `content/experience/brockmann/` and `content/experience/iceye/` — section headings.
+  - `content/update/` — both update pages.
+
 ### Verification
 - Hugo build completed successfully in WSL (`736` pages generated, no build errors).
+- Final sweep confirmed zero emoji characters in any markdown file under `content/`.
 
 ## 🎉 v2.1.0 - Repository Decluttering & Documentation (May 10, 2026)
 
