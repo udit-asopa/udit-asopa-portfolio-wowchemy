@@ -3,40 +3,25 @@ title: InSAR Applications
 summary: My work with InSAR focuses on detecting and analyzing ground displacement using radar remote sensing techniques such as DInSAR and PSInSAR. I’ve developed and implemented workflows for processing satellite SAR data, enabling accurate monitoring of subsidence, tectonic motion, and anthropogenic changes. These efforts have supported environmental and geophysical studies across varied terrains using Sentinel-1 and TerraSAR-X datasets.
 tags:
 - InSAR
-- SAR Interferometry
 - DInSAR
 - PSInSAR
-- SAR
-- X Band SAR
-- SAR Processing Chains
-- Phase Analysis
-- Coherence Analysis
+- SAR Interferometry
 - Multi-temporal SAR
 - Time Series Analysis
-- Ground Deformation
+- Ground Deformation Monitoring
 - Ground Displacement
-- Ground Stability
-- Subsidence Monitoring
-- Tectonic Motion
-- Earth Observation
-- Remote Sensing
+- Land Subsidence
+- Tectonic Monitoring
+- Change Detection
 - Sentinel-1
 - TerraSAR-X
-- Spaceborne Platforms
-- Raster Analytics
-- Spatial Data Pipelines
-- Geophysical Modeling
-- Environmental Monitoring
-- Infrastructure Monitoring
-- Change Detection
-- Digital Elevation Models
-- Terrain Analysis
 - Geodesy
-- Mapping Displacement
-- Scientific Communication
-- Geospatial Intelligence
-- Technical Writing
-- Research Experience
+- Geophysical Modeling
+- Infrastructure Monitoring
+- Environmental Monitoring
+- Earth Observation
+- Remote Sensing
+- Geospatial Analytics
 date: "2020-12-12"
 
 # Optional external URL for project (replaces project detail page).
@@ -92,7 +77,7 @@ My interest lies in leveraging SAR data, particularly interferometric SAR, to un
 
 ---
 
-## 📖 References
+## References
 
 - **Asopa, Udit** and Kumar, Shashi and Thakur, Praveen Kumar (2018). PSInSAR Study of Lyngenfjord Norway, using TerraSAR-X Data, ISPRS Ann. Photogramm. Remote Sens. Spatial Inf. Sci., IV-5, 245–251. https://doi.org/10.5194/isprs-annals-IV-5-245-2018.
 - Gupta, Amitesh and **Asopa, Udit** and Bhattacharjee, Rajarshee (2019). Land Subsidence Monitoring in Jagadhri City Using Sentinel 1 Data and DInSAR Processing. Proceedings, 24(1), 25. https://doi.org/10.3390/IECG2019-06230

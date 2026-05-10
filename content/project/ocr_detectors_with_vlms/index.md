@@ -3,43 +3,26 @@ title: Vision Text Extractor
 summary: A comprehensive CLI tool that extracts text from images and documents using multiple cutting-edge AI providers. Choose from privacy-focused local models like SmolVLM and LLaVA, or leverage high-accuracy cloud-based solutions like OpenAI GPT-4o. Features one-command setup with Pixi, custom extraction prompts, batch processing capabilities, and support for both local files and web URLs. Perfect for document digitization, receipt processing, research paper analysis, and enterprise document workflows with maximum flexibility and data privacy control.
 tags:
 - OCR
-- Computer Vision
-- Object Detection
-- Text Extraction
-- Document Processing
-- AI
-- Artificial Intelligence
-- Machine Learning
-- Deep Learning
-- Vision-Language Models
+- Vision Language Models
 - Multimodal AI
-- Large Language Models (LLMs)
-- Natural Language Processing
-- OpenAI
+- Document Intelligence
+- Text Extraction
+- Computer Vision
+- Foundation Models
+- OpenAI GPT-4o
 - LLaVA
 - SmolVLM
-- Foundation Models
-- Python
-- Python Development
-- CLI Tools
-- Command Line Interface
-- Open Source
-- GitHub
-- Software Development
-- API Development
-- Model Deployment
-- Edge AI
-- Local Processing
-- Cloud AI Services
-- Privacy Protection
-- Data Privacy
+- Python CLI
+- Developer Tooling
+- Batch Processing
+- API Integration
+- Local Inference
+- Cloud Inference
+- Privacy-first AI
 - Document Digitization
-- Automation
-- Business Documents
-- Enterprise Applications
-- Technical Writing
-- Innovation
-- Problem Solving
+- Workflow Automation
+- Open Source
+- Enterprise Automation
 date: "2025-10-17"
 
 # Optional external URL for project (replaces project detail page).
