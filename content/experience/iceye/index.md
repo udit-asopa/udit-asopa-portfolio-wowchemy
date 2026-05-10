@@ -1,6 +1,6 @@
 ---
-title: "Geospatial Data Scientist | Remote Sensing Analyst" 
-subtitle: "(*official title: SAR Remote Sensing Engineer*) at ICEYE Oy, Finland"
+title: "Geospatial Data Scientist | EO Data Scientist | Remote Sensing Engineer" 
+subtitle: "(*official title: SAR Remote Sensing Engineer*) ICEYE Oy, Finland"
 summary: At ICEYE, I contributed to the development of geospatial disaster response solutions by leveraging SAR-based analytics, raster processing, and change detection techniques. My work spanned the Hurricane Rapid Impact and Wildfire Insights products, where I generated scalable raster workflows and hexgrid analytics for building-level damage assessment and exposure mapping across affected regions.
 tags:
 - SAR
@@ -37,8 +37,10 @@ tags:
 - Client Solutions
 - Stakeholder Engagement
 - Performance Optimization
+- Scalability
+- Data Science
 
-date: "2025-07-01"
+date: "2025-07-03"
 
 type: page
 layout: single

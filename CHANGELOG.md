@@ -1,0 +1,22 @@
+# Changelog
+
+All notable changes to this repository are documented in this file.
+
+## 2026-05-10
+
+### Added
+- Added WSL-focused Hugo setup guide at `docs/HUGO_SETUP_WSL.md`.
+- Added end-to-end installation and troubleshooting steps for Hugo, Go, and DNS issues in WSL.
+
+### Changed
+- Updated setup instructions to require Hugo extended (needed for SCSS/SASS build pipeline used by Wowchemy).
+- Updated local run command in `view.sh` to use --printI18nWarnings.
+- Added Brockmann logo asset at `static/media/brockmann_geom_logo.png`.
+- Initialized and updated detailed Brockmann experience page at `content/experience/brockmann/index.md`.
+- Updated homepage experience section to include Brockmann as the current role.
+- Marked ICEYE role as completed by setting an end date in the experience timeline.
+- Updated social links in `content/authors/admin/_index.md` by removing Twitter, Facebook, and Instagram and adding YouTube.
+
+### Fixed
+- Documented fix path for error: TOCSS failed ... you need the extended version.
+- Documented fix path for error: failed to load modules ... binary with name "go" not found.

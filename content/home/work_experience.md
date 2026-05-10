@@ -22,13 +22,48 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+  - title: Data Scientist
+    company: Brockmann Geomatics Sweden AB
+    company_url: 'http://www.brockmann-geomatics.se/'
+    company_logo: media/brockmann_geom_logo.png
+    location: Espoo, Finland
+    date_start: '2026-01-15'
+    date_end: ''
+    url: content/experience/brockmann/index.md
+    description: |2-
+      <p>
+      Designing and maintaining production-grade Python workflows and machine learning solutions for environmental, water, and climate analytics. Integrating multi-source geospatial and Earth observation datasets into reproducible, decision-ready products for major international initiatives including OASIS (Horizon Europe) and AQUATIME (European Space Agency). Strong emphasis on scientific software engineering, data quality, validation, and traceability. (Python, SQL, GeoPandas, GDAL, Rasterio, MLflow, Git, Linux).
+      </p>
+
+      <h5 style="text-align:center; margin-bottom: 0.5rem;">Key Professional & Technical Skills</h5>
+      <div style="display: flex; gap: 1rem; margin: 0; padding: 0;">
+      <ul style="margin: 0; padding-left: 0rem; list-style-position: inside;">
+        <li>Data science & applied AI</li>
+        <li>Earth observation analytics</li>
+        <li>Scientific software engineering</li>
+      </ul>
+      <ul style="margin: 0; padding-left: 0rem; list-style-position: inside;">
+        <li>Machine learning workflows</li>
+        <li>Time-series analysis</li>
+        <li>Environmental & water analytics</li>
+      </ul>
+      <ul style="margin: 0; padding-left: 0rem; list-style-position: inside;">
+        <li>Python, SQL, GIS tools</li>
+        <li>Validation & reproducibility</li>
+        <li>Horizon Europe projects</li>
+      </ul>
+      </div>
+      <p style="margin-top: 1rem; text-align:center;">
+      <a href="experience/brockmann/"><b>Read more about my work at Brockmann Geomatics</b></a>
+      </p>
+
   - title: SAR Remote Sensing Engineer
     company: ICEYE Oy
     company_url: 'https://www.iceye.com/'
     company_logo: media/iceye_logo_black.png
     location: Espoo, Finland
     date_start: '2021-12-15'
-    date_end: ''
+    date_end: '2026-01-14'
     url: content/experience/iceye/index.md
     description: |2-
       <p>
