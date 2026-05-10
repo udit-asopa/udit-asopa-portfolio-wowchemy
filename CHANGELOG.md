@@ -12,6 +12,19 @@ Three content sections deferred for future review:
 
 **Status:** Keeping all three sections for now. Will revisit archival strategy later.
 
+## 2026-05-10 (Root Directory Decluttering)
+
+### Changed
+- **Moved utility scripts to organized location:**
+  - `update_wowchemy.sh` → `docs/scripts/update_wowchemy.sh` (infrequent theme updates)
+  - Updated `.gitignore` to exclude `.hugo_build.lock` and `isce.log`
+  - Updated `README.md` with local development instructions and script references
+
+### Impact
+- **Root files reduced:** 18 → 11 (cleaner directory structure)
+- **Scripts properly organized:** Utility scripts moved to documentation folder
+- **Build artifacts ignored:** Auto-generated files no longer tracked
+
 ## 2026-05-10 (Phase 1 Deep-Dive Cleanup)
 
 ### Removed
