@@ -1,37 +1,34 @@
----
+﻿---
 title: "Geospatial Data Scientist | Scientific Software Engineer"
 subtitle: "Brockmann Geomatics Sweden AB, Finland"
 summary: At Brockmann Geomatics, I develop reproducible Python-based workflows and machine learning solutions for environmental and water analytics, contributing to international projects such as OASIS and AQUATIME that integrate Earth observation, AI, and scientific computing into decision-ready products.
 tags:
 - Data Science
-- Scientific Software Engineering
 - Geospatial Data Science
+- Scientific Software Engineering
 - Earth Observation
-- Environmental Analytics
+- Environmental Intelligence
 - Water Analytics
-- Climate Intelligence
+- Climate Analytics
 - Horizon Europe
-- OASIS Project
+- OASIS
 - AQUATIME
 - Python
 - SQL
 - Machine Learning
-- Time-Series Analysis
+- Time Series Analysis
 - Geospatial Analytics
 - Raster Processing
 - Data Engineering
 - ETL Pipelines
 - Validation Frameworks
-- Reproducible Research
+- Reproducible Workflows
 - MLflow
 - GeoPandas
 - GDAL
 - Rasterio
-- Linux
-- Git
 - Scientific Computing
-- Environmental Intelligence
-- Decision Support
+- Decision Support Systems
 - Applied AI
 
 date: "2026-05-10"
@@ -41,9 +38,9 @@ layout: single
 external_link: ''
 
 image:
-  name: brockmann_geomatics_logo.png
-  caption: 'Brockmann Geomatics Sweden AB'
-  focal_point: Smart
+ name: brockmann_geomatics_logo.png
+ caption: 'Brockmann Geomatics Sweden AB'
+ focal_point: Smart
 
 ---
 
@@ -53,7 +50,7 @@ image:
 
 At Brockmann Geomatics, I work as a Data Scientist, developing production-grade Python workflows and machine learning solutions that transform large and heterogeneous Earth observation datasets into reliable analytical products. My work combines scientific software engineering, geospatial analytics, and applied artificial intelligence to support environmental monitoring, water analytics, and climate-related decision-making.
 
-I currently contribute to international initiatives including **AQUATIME**, a European Space Agency Sentinel User Preparation project advancing the use of future Copernicus CHIME and LSTM missions for aquatic ecosystem and biodiversity monitoring and **OASIS**, a Horizon Europe project focused on AI-powered Earth Intelligence for water resilience and ecosystem management. 
+I currently contribute to international initiatives including **AQUATIME**, a European Space Agency Sentinel User Preparation project advancing the use of future Copernicus CHIME and LSTM missions for aquatic ecosystem and biodiversity monitoring and **OASIS**, a Horizon Europe project focused on AI-powered Earth Intelligence for water resilience and ecosystem management.
 
 The role sits at the intersection of Earth observation, scientific computing, and scalable software development, with strong emphasis on reproducibility, validation, and maintainable code.
 
@@ -75,14 +72,14 @@ My responsibilities include designing and maintaining end-to-end workflows that 
 
 ## **Key Projects**
 
-### 🌊 AQUATIME
+### AQUATIME
 An European Space Agency (ESA) Sentinel User Preparation project focused on preparing the synergistic use of upcoming Copernicus CHIME and LSTM missions to improve understanding of aquatic ecosystems and biodiversity.
 
 The project develops novel algorithms and products for phytoplankton monitoring, harmful algal bloom detection, and ecosystem analysis across multiple study areas in Northern Europe and the North Sea. Applications include aquaculture risk assessment, water quality monitoring, biodiversity analysis, and climate-driven ecosystem dynamics.
 
 The consortium is led by Brockmann Geomatics and includes partners such as the Finnish Environment Institute (SYKE), Spectral Earth, Brockmann Consult, the Royal Belgian Institute of Natural Sciences, the University of Tartu, and the Swedish University of Agricultural Sciences.
 
-### 🌍 OASIS (Observation and AI-powered System for Intelligent Water Solutions)
+### OASIS (Observation and AI-powered System for Intelligent Water Solutions)
 
 OASIS is a four-year Horizon Europe project (Grant Agreement 110293392) that delivers AI-powered Earth Intelligence to improve water quality monitoring, ecosystem management, biodiversity assessment, and climate resilience. The project combines Earth Observation, artificial intelligence, environmental models, and in situ measurements to support evidence-based policymaking and the implementation of key European directives such as the Water Framework Directive, Marine Strategy Framework Directive, Natura 2000, and the Nature Restoration Regulation.
 

@@ -3,42 +3,31 @@ title: "Geospatial Data Scientist | EO Data Scientist | Remote Sensing Engineer"
 subtitle: "(*official title: SAR Remote Sensing Engineer*) ICEYE Oy, Finland"
 summary: At ICEYE, I contributed to the development of geospatial disaster response solutions by leveraging SAR-based analytics, raster processing, and change detection techniques. My work spanned the Hurricane Rapid Impact and Wildfire Insights products, where I generated scalable raster workflows and hexgrid analytics for building-level damage assessment and exposure mapping across affected regions.
 tags:
-- SAR
+- Geospatial Data Science
+- SAR Analytics
 - X Band SAR
-- SAR Processing Chains
-- Remote Sensing
-- Change Detection
 - Multi-temporal SAR
+- Change Detection
 - Raster Analytics
 - Hexgrid Analytics
 - Building Damage Assessment
 - Exposure Mapping
-- GIS
 - Spatial Data Pipelines
+- Geospatial Intelligence
+- Earth Observation
+- Remote Sensing
 - Data Engineering
 - Real-time Processing
 - Disaster Response
-- Emergency Response
-- Crisis Management
-- Natural Catastrophe
-- Hurricane
-- Wildfire
-- Insurance
+- Hurricane Response
+- Wildfire Response
+- Insurance Analytics
 - Risk Assessment
-- Asset Management
 - Product Development
-- Technical Leadership
-- Cross-functional Teams
-- Agile Methodology
-- Industry Application
-- Geospatial Intelligence
-- Innovation
-- Problem Solving
-- Client Solutions
+- Cross-functional Collaboration
 - Stakeholder Engagement
-- Performance Optimization
-- Scalability
-- Data Science
+- Scalable Workflows
+- ICEYE
 
 date: "2025-07-03"
 
@@ -59,7 +48,7 @@ As a remote sensing and geospatial specialist at ICEYE, I worked across two of t
 
 In both projects, I delivered high-resolution raster-based geospatial insights, designed and executed change detection workflows, and generated scalable hexgrid summaries for real-time situational awareness.
 
-### 🌪️ Hurricane Rapid Impact
+### Hurricane Rapid Impact
 In the Hurricane product, I built raster processing chains that translated raw multi-temporal SAR data into wind-induced damage footprints. These outputs were used to triage claims, assess building damage, and direct emergency responders during critical post-landfall hours.
 
 #### My Contributions:
@@ -67,7 +56,7 @@ In the Hurricane product, I built raster processing chains that translated raw m
 * **Hexgrid-Based Summaries**: Aggregated spatial damage estimates into hexgrids to support scalable risk assessments and GIS integration.
 * **Disaster Data Pipelines**: Collaborated with cross-functional teams to automate raster product delivery, reducing time-to-insight for operational users
 
-### 🔥 Wildfire Insights
+### Wildfire Insights
 For ICEYE’s wildfire product, I contributed to near real-time building-level damage classification by integrating SAR-based change detection with structural footprint databases. This helped insurers identify destroyed or undamaged structures even in areas obscured by smoke or cloud cover.
 
 #### My Contributions

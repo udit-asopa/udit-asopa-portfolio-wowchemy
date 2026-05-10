@@ -3,12 +3,23 @@ title: Remote Sensing Applications
 summary: I’ve applied remote sensing techniques across a wide range of environmental monitoring projects, from assessing urban heat islands and mapping volcanic deformation with InSAR, to modeling forest structures using LiDAR and developing web-based applications on Google Earth Engine. My work integrates multi-sensor datasets, geospatial analytics, and field validation to produce actionable insights for climate, disaster, and land surface studies.
 tags:
 - Remote Sensing
+- Earth Observation
+- Geospatial Analytics
 - GIS
-- Geospatial Science
 - Google Earth Engine
 - LiDAR
-- Scientific Communication
-- Geospatial Intelligence
+- InSAR
+- Sentinel-1
+- RADARSAT
+- Multisensor Analysis
+- Urban Heat Island
+- LULC Change Analysis
+- Volcanic Deformation Monitoring
+- Cryosphere Monitoring
+- Forest Structure Modeling
+- Environmental Monitoring
+- Disaster Risk Assessment
+- Geospatial Visualization
 date: "2022-04-23"
 
 # Optional external URL for project (replaces project detail page).
@@ -66,7 +77,7 @@ Investigated land use/land cover changes and their role in intensifying the urba
 
 ---
 
-## 📖 References
+## References
 
 - Tanisha Ameriya and Udit Asopa, and Charu Jhamaria, “Assessing role of LULC change in inducing UHI in Jaipur district, Rajasthan, India: A case study from 2009 – 2019,” Songklanakarin J. Sci. Technol, vol. 44, no. 4, pp. 1032–1039, Apr. 2022, doi: https://doi.org/10.14456/sjst-psu.2022.135. Available: https://doi.nrct.go.th/admin/doc/doc_629765.pdf.
 - Udit Asopa, Google Earth Engine App, May 2021. Available: https://uditasopa.users.earthengine.app/

@@ -1,54 +1,39 @@
 ---
-title: 🚀 Delivery Environments
-subtitle: "I ensure data transforms into actionable insights seamlessly across platforms and users. My focus is on automation, reproducibility, and clear documentation, empowering teams to deploy, interpret, and trust data-driven solutions in real time. How I transform raw data into impact-driven outcomes"
+title: Delivery Environments
+subtitle: "How I transform raw data into trusted, impact-driven outcomes through automation, reproducibility, and clear documentation"
 summary: I design and maintain robust data delivery environments that convert raw geospatial and remote sensing inputs into operational intelligence. From scalable SAR raster pipelines to collaborative dashboards and feature‑rich fusion outputs.
 tags:
-- Delivery Environment
+- Delivery Engineering
 - Data Engineering
+- Geospatial Pipelines
 - Spatial Data Pipelines
 - ETL Pipelines
-- Data Pipelines
-- Real-time Processing
-- Stream Processing
-- Automation
-- Process Automation
-- Workflow Optimization
-- Reproducibility
+- Workflow Automation
+- Reproducible Workflows
 - Data Quality
 - Quality Assurance
-- Remote Sensing
-- SAR
-- SAR Processing Chains
-- X Band SAR
-- GIS
-- Raster Analytics
-- Geospatial Pipelines
-- Change Detection
-- Multi-temporal SAR
-- Disaster Response
-- Emergency Response
-- Dashboarding
-- Data Visualization
-- Business Intelligence
+- Real-time Processing
 - Operational Intelligence
-- Performance Monitoring
-- Scalable AI
-- Cloud Platforms
-- Microservices
+- Disaster Response Analytics
+- Earth Observation
+- Remote Sensing
+- SAR Processing
+- Multi-temporal Analysis
+- Change Detection
+- Raster Analytics
+- Dashboarding
+- Business Intelligence
+- Data Visualization
 - API Development
-- Documentation
-- Technical Writing
-- Knowledge Transfer
-- Team Collaboration
+- Microservices
+- Cloud Platforms
 - DevOps
 - MLOps
 - CI/CD
 - Model Deployment
-- Performance Optimization
 - System Integration
-- Infrastructure Monitoring
-- Meteorology
-- Weather Data
+- Technical Documentation
+- Knowledge Transfer
 date: "2025-10-17"
 
 # Optional external URL for project (replaces project detail page).
@@ -75,11 +60,11 @@ Holistic delivery workflows—from raw satellite ingestion to user‑ready geosp
 
 <table style="border-collapse: collapse; width: 100%; margin: 0;">
   <tr>
-    <td><strong>🧱 Disaster Response Products</strong></td>
-    <td><strong>🖼️ Visual Dashboards & Insights</strong></td>
-    <td><strong>🔁 Automated Pipelines</strong></td>
-    <td><strong>🧬 Data Fusion Techniques</strong></td>
-    <td><strong>📁 Documentation & Reproducibility</strong></td>
+    <td><strong>Disaster Response Products</strong></td>
+    <td><strong>Visual Dashboards and Insights</strong></td>
+    <td><strong>Automated Pipelines</strong></td>
+    <td><strong>Data Fusion Techniques</strong></td>
+    <td><strong>Documentation and Reproducibility</strong></td>
   </tr>
   <tr>
     <td style="padding: 0.5rem;">

@@ -1,58 +1,43 @@
 ---
-title: 🧰 Toolchain & Technologies ⚙️
+title: Toolchain and Technologies
 summary: The tech stack I leverage to process, analyze, visualize, and deliver insights.
 tags:
 - Python
-- Python Development
-- Programming
+- SQL
 - JavaScript
-- R Programming
+- R
 - MATLAB
-- Shell Scripting
-- Software Development
-- Geospatial Tools
-- Remote Sensing
-- Earth Observation
-- GIS
-- QGIS
-- ArcGIS
-- Google Earth Engine
-- Cloud AI Services
-- SAR Processing
-- SAR Processing Chains
-- SNAP
-- SARscape
-- GDAL
-- Raster Analytics
-- Spatial Data Pipelines
-- Data Analytics
+- Bash Scripting
 - Data Science
-- Statistical Analysis
-- Power BI
-- Data Visualization
 - Data Engineering
-- ETL Pipelines
-- Database Management
+- Workflow Automation
+- API Integration
+- Jupyter
+- Git
+- GitHub
+- GitHub Actions
+- CI/CD
+- DevOps
+- MLOps
 - Cloud Platforms
 - AWS
 - Google Cloud Platform
 - Microsoft Azure
 - Docker
 - Kubernetes
-- Version Control
-- Git & GitHub
-- CI/CD
-- DevOps
-- MLOps
-- API Development
-- Technical Tools
-- Software Stack
-- Development Environment
-- Performance Optimization
-- SQL
-- Visualization
-- Jupyter
-- Workflow Automation
+- GIS
+- QGIS
+- ArcGIS
+- Google Earth Engine
+- GDAL
+- SNAP
+- SARscape
+- SAR Processing
+- Raster Analytics
+- Geospatial Pipelines
+- Power BI
+- Data Visualization
+- Databricks
 date: "2025-07-01"
 
 # Optional external URL for project (replaces project detail page).
@@ -79,11 +64,11 @@ url_video: ""
 
 <table style="border-collapse: collapse; width: 100%;">
   <tr>
-    <td><strong>🐍 Coding & Analysis</strong></td>
-    <td><strong>🧭 Geospatial & EO Tools</strong></td>
-    <td><strong>☁️ Cloud & Dev Platforms</strong></td>
-    <td><strong>📊 Visualization & Reporting</strong></td>
-    <td><strong>🛠️ Integration & Ops</strong></td>
+    <td><strong>Coding and Analysis</strong></td>
+    <td><strong>Geospatial and EO Tools</strong></td>
+    <td><strong>Cloud and Development Platforms</strong></td>
+    <td><strong>Visualization and Reporting</strong></td>
+    <td><strong>Integration and Operations</strong></td>
   </tr>
   <tr>
     <td>

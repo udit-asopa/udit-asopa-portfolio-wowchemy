@@ -10,7 +10,7 @@ headless: true
 weight: 7
 
 title: <b>Publications</b>
-subtitle: ''
+subtitle: 'Peer-reviewed and conference contributions in remote sensing, geospatial analytics, and Earth observation'
 
 content:
   # Page type to display. E.g. post, talk, publication...

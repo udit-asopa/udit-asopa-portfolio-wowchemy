@@ -1,58 +1,38 @@
 ---
-title: 🎯 Operational Strengths
+title: Operational Strengths
 subtitle: "**Operational Excellence in Action** - Strategic thinking, collaborative execution, and process efficiency, all converging to deliver impactful outcomes within tight deadlines."
 summary: I excel in delivering tactical and strategic solutions within high-performing, cross-disciplinary teams by combining analytical rigor, clear communication, and outcome-oriented execution.
 tags:
 - Operational Excellence
-- Strategic Thinking
-- Tactical Solutions
+- Strategic Execution
 - Cross-functional Leadership
 - Technical Leadership
-- Team Management
-- Cross-functional Teams
-- Stakeholder Communication
 - Stakeholder Engagement
+- Stakeholder Communication
 - Executive Communication
-- Process Automation
-- Process Efficiency
-- Workflow Optimization
-- Performance Optimization
-- Technical Reporting
-- Scientific Communication
-- Data Storytelling
-- Presentation Skills
-- Remote Sensing
-- SAR
-- X Band SAR
-- InSAR
-- Change Detection
-- Raster Analytics
-- GIS
-- Earth Observation
-- Disaster Response
-- Emergency Response
-- Insurance
-- Risk Assessment
 - Project Management
-- Agile Methodology
-- Deadline Management
+- Agile Delivery
+- Priority Management
 - Time Management
-- Priority Setting
-- Problem Solving
-- Decision Making
+- Rapid Response
+- Process Optimization
+- Workflow Automation
+- Continuous Improvement
 - Quality Assurance
 - Performance Management
-- Continuous Improvement
-- Best Practices
-- Innovation
-- Collaborative Execution
-- Analytical Rigor
-- Outcome-oriented Execution
-- Ground Stability
-- Natural Catastrophe
+- Analytical Problem Solving
+- Decision Making
+- Data Storytelling
+- Technical Reporting
 - Geospatial Intelligence
-- Geospatial Strategy
-- ESRI
+- Earth Observation
+- Remote Sensing
+- SAR
+- InSAR
+- Change Detection
+- Risk Assessment
+- Disaster Response
+- Insurance Analytics
 date: "2025-07-01"
 
 external_link: ""
@@ -68,15 +48,15 @@ url_slides: ""
 url_video: "https://youtu.be/2xquSq0MSAc"
 
 ---
-My strengths lie in breaking down complex challenges into actionable steps, fostering synergy across engineering, product, and science, and implementing efficient, repeatable workflows under tight timelines. I bring a rare blend of technical acumen and stakeholder-focused storytelling—ensuring clarity, credibility, and impact in every project I engage with. What I bring to high-performing, cross-disciplinary teams.
+My strengths lie in breaking down complex challenges into actionable steps, aligning engineering, product, and science teams, and implementing efficient, repeatable workflows under tight timelines. I combine technical depth with stakeholder-focused storytelling to deliver clarity, credibility, and impact. Below is what I bring to high-performing, cross-disciplinary teams.
 
 <table style="border-collapse: collapse; width: 100%; margin: 1rem 0;">
   <tr>
-    <td><strong>🕵️‍♂️ Analytical Problem Solving</strong></td>
-    <td><strong>🧩 Cross‑Team Coordination</strong></td>
-    <td><strong>🧠 Process Optimization</strong></td>
-    <td><strong>📣 Effective Communication</strong></td>
-    <td><strong>⚡ Rapid Turnaround</strong></td>
+    <td><strong>Analytical Problem Solving</strong></td>
+    <td><strong>Cross-Team Coordination</strong></td>
+    <td><strong>Process Optimization</strong></td>
+    <td><strong>Effective Communication</strong></td>
+    <td><strong>Rapid Turnaround</strong></td>
   </tr>
   <tr>
     <td>

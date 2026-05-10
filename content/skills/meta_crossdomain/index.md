@@ -1,53 +1,36 @@
 ---
-title: 🌍 Meta-Skills for Cross-Domain Fluency
+title: Meta-Skills for Cross-Domain Fluency
 subtitle: Intersection of Technical Expertise, Strategic Thinking, and Communication - Core to Cross-Domain Fluency
 summary: The transferable capabilities bridging Earth science, data science, and strategic decision-making.
 tags:
-- Meta-Skills
-- Cross-Domain Fluency
-- Cross-Disciplinary Skills
+- Meta Skills
+- Cross-domain Fluency
 - Interdisciplinary Collaboration
-- Scientific Communication
-- Technical Writing
-- Data Storytelling
+- Cross-functional Collaboration
+- Systems Thinking
+- Strategic Thinking
 - Analytical Thinking
 - Critical Thinking
-- Strategic Thinking
-- Systems Thinking
-- Remote Collaboration
-- Cross-cultural Communication
-- International Collaboration
-- Stakeholder Engagement
-- Executive Communication
-- Presentation Skills
-- Public Speaking
-- Adaptability
-- Flexibility
-- Continuous Learning
-- Knowledge Transfer
-- Geospatial Intelligence
-- Earth Observation
-- Remote Sensing
-- Research Methods
-- Research Experience
-- Experimental Design
-- Data Science
+- Problem Solving
 - Decision Support
 - Decision Making
-- Team Communication
-- Cross-functional Teams
+- Stakeholder Engagement
+- Executive Communication
+- Technical Communication
+- Scientific Communication
+- Data Storytelling
+- Technical Writing
+- Presentation Skills
+- Public Speaking
+- Cross-cultural Communication
+- Remote Collaboration
 - Leadership
-- Innovation
-- Creative Problem Solving
-- Problem Solving
+- Adaptability
+- Continuous Learning
 - Change Management
-- Technology Transfer
-- Bridge Building
+- Knowledge Transfer
 - Domain Translation
-- ESRI
-- GIS
-- Professional Development
-- Soft Skills
+- Technology Transfer
 date: "2025-07-01"
 
 image:
@@ -57,11 +40,11 @@ image:
 
 <table style="border-collapse: collapse; width: 100%;">
   <tr>
-    <td><strong>🔭 Scientific Intuition</strong></td>
-    <td><strong>🤝 Stakeholder Engagement</strong></td>
-    <td><strong>🧠 Curiosity-Driven Learning</strong></td>
-    <td><strong>🧾 Clear Reporting & Synthesis</strong></td>
-    <td><strong>🌐 Adaptive Thinking</strong></td>
+    <td><strong>Scientific Intuition</strong></td>
+    <td><strong>Stakeholder Engagement</strong></td>
+    <td><strong>Curiosity-Driven Learning</strong></td>
+    <td><strong>Clear Reporting and Synthesis</strong></td>
+    <td><strong>Adaptive Thinking</strong></td>
   </tr>
   <tr>
     <td>

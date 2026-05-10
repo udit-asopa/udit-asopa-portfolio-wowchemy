@@ -1,6 +1,6 @@
----
+﻿---
 
-title: Degree and Diploma 🎓 👨🏻‍🏫
+title: Degree and Diploma
 subtitle: "Academic foundation across remote sensing, biomedical systems, and electronics"
 summary: A diverse educational journey spanning geospatial sciences, biomedical instrumentation, and electronics engineering—equipping me with analytical depth, technical versatility, and interdisciplinary fluency.
 tags:
@@ -28,8 +28,8 @@ date: "2019-07-14"
 external_link: ""
 
 image:
-  caption: ''
-  focal_point: Smart
+ caption: ''
+ focal_point: Smart
 
 ---
 
@@ -42,9 +42,9 @@ image:
 **Date**: Aug 2017 - Jul 2019<br>
 **Courses**:
 
-* **Microwave & SAR Remote Sensing**: Polarimetric & interferometric fundamentals, scattering mechanisms, remote sensing physics 
-* **Digital Image Processing**: Image enhancement, distortion correction, classification & feature extraction 
-* **Hyperspectral & LiDAR Remote Sensing**: Spectral analysis, point cloud processing, DEM generation 
+* **Microwave & SAR Remote Sensing**: Polarimetric & interferometric fundamentals, scattering mechanisms, remote sensing physics
+* **Digital Image Processing**: Image enhancement, distortion correction, classification & feature extraction
+* **Hyperspectral & LiDAR Remote Sensing**: Spectral analysis, point cloud processing, DEM generation
 * **GIS & Spatial Data Systems**: Vector/raster modeling, projections, topology, spatial databases
 
 <br>
@@ -74,5 +74,5 @@ image:
 **Courses**:
 
 * **Digital Signal Processing & Communication Systems**: Fourier transforms, sampling theory, modulation
-* **Microprocessors & Embedded Systems**: Architecture, interfacing, and real-time control 
+* **Microprocessors & Embedded Systems**: Architecture, interfacing, and real-time control
 * **Electronics & Analog Circuits**: Circuit design, instrumentation amplifiers, sensor integration

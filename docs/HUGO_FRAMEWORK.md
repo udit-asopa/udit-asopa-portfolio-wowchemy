@@ -228,6 +228,25 @@ categories:
 - `/tags/geospatial/` — All tagged pages
 - `/categories/professional/` — All categorized pages
 
+#### Tag Governance for This Repository
+
+To keep search, filtering, and content discovery consistent, use the following tag rules:
+
+- Use **Title Case** for regular terms (e.g., `Geospatial Intelligence`, `Data Science`).
+- Keep standard acronyms uppercase (e.g., `SAR`, `InSAR`, `GIS`, `MLflow`).
+- Prefer one canonical phrase over near-duplicates:
+   - Use `Time Series Analysis` (avoid mixing with `Time-Series Analysis`).
+   - Use `Multi-temporal SAR` (avoid alternate punctuation variants).
+- Target **12-25 tags per major project/experience page** and **10-20 tags per skill page**.
+- Mix tag levels for better discoverability:
+   - Domain tags: `Earth Observation`, `Remote Sensing`.
+   - Method tags: `Change Detection`, `Raster Analytics`.
+   - Application tags: `Disaster Response`, `Insurance Analytics`.
+   - Platform/tool tags when truly relevant: `Sentinel-1`, `Google Earth Engine`.
+- Avoid generic filler tags with low signal (e.g., `Innovation`, `Problem Solving`) unless central to page intent.
+- Reuse existing high-value tags before introducing new synonyms.
+- Review tags whenever content scope changes significantly.
+
 ---
 
 ### 6. **Templates & Layouts**

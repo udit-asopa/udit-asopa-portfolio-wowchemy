@@ -60,7 +60,7 @@ experience:
   - title: SAR Remote Sensing Engineer
     company: ICEYE Oy
     company_url: 'https://www.iceye.com/'
-    company_logo: media/iceye_logo_black.png
+    company_logo: media/iceye.jpg
     location: Espoo, Finland
     date_start: '2021-12-15'
     date_end: '2026-01-14'
@@ -94,16 +94,16 @@ experience:
   - title: Geospatial Data Analyst
     company: Freelance
     company_url: ''
-    location: Delft Netherlands
+    location: Delft, Netherlands
     date_start: '2021-05-01'
     date_end: '2021-12-15'
-    description: Web-based  geospatial  application  development,  spatial  analysis,  and environmental  monitoring  using  satellite  data.  Storytelling  with  maps,  indicator dashboards,  and  remote  sensing  analytics  for  stakeholder  engagement.  (Google Earth Engine, QGIS, JavaScript, Python)
+    description: Web-based geospatial application development, spatial analysis, and environmental monitoring using satellite data. Storytelling with maps, indicator dashboards, and remote sensing analytics for stakeholder engagement. (Google Earth Engine, QGIS, JavaScript, Python)
 
   - title: Remote Sensing & GIS Researcher
     company: Delft University of Technology
     company_url: 'https://www.tudelft.nl/en/ceg'
     company_logo: media/tudelft_logo.png
-    location: Delft Netherlands
+    location: Delft, Netherlands
     date_start: '2020-04-01'
     date_end: '2021-04-01'
     description: InSAR time-series analysis, geospatial modeling, and cloud-enabled automation for ground  deformation  monitoring.  Research  documentation,  training  coordination, and reproducible workflow development in a multidisciplinary team. (Python, Bash, QGIS, Sentinel-1, Jupyter)

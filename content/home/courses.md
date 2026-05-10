@@ -11,7 +11,7 @@ weight: 4
 
 active: true
 title: <b>Education, Courses & Certifications</b>
-subtitle: <b>All the hackathon, external courses, certifications, conferences that I attended and completed</b>
+subtitle: <b>Academic degrees, professional courses, certifications, hackathons, and conference participation</b>
 
 content:
   # Page type to display. E.g. post, talk, publication...

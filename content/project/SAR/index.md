@@ -2,33 +2,25 @@
 title: SAR Techniques and Fundamentals
 summary: My work in SAR focuses on advancing techniques like polarimetric decomposition, calibration, and 3D tomographic imaging to better characterize land and forest structure. Leveraging datasets from platforms such as UAVSAR and TerraSAR-X, I’ve investigated frequency-dependent scattering, refined PolSAR calibration workflows, and developed vertical profiling methods using PolSAR tomography. These efforts support applications in ecosystem monitoring, geophysical modeling, and the interpretation of complex surface features.
 tags:
-- SAR
-- SAR Polarimetry
+- Synthetic Aperture Radar
 - Polarimetric SAR
-- SAR Processing Chains
 - SAR Calibration
-- PolSAR Calibration
 - SAR Tomography
-- Compressive Sensing
-- Signal Processing
-- Fourier Transform
 - Multi-temporal SAR
 - Coherence Analysis
 - Phase Analysis
 - Backscatter Analysis
+- Signal Processing
+- Compressive Sensing
 - UAVSAR
 - TerraSAR-X
-- Airborne Sensors
-- Spaceborne Platforms
+- Airborne SAR
+- Earth Observation
 - Remote Sensing
-- Advanced Geospatial Analysis
-- 3D Reconstruction
-- Scientific Communication
 - Geospatial Intelligence
-- Research Experience
-- Academic Publications
-- Technical Writing
-- Experimental Design
+- 3D Reconstruction
+- Forest Structure Analysis
+- Research Publications
 date: "2021-02-23"
 
 # Optional external URL for project (replaces project detail page).
@@ -81,7 +73,7 @@ Further extending into three-dimensional imaging, I applied PolSAR tomography on
 
 ---
 
-## 📖 References
+## References
 
 - S. Kumar, A. Babu, S. Agrawal, U. Asopa, S. Shukla, and A. Maiti, “Polarimetric calibration of spaceborne and airborne multifrequency SAR data for scattering-based characterization of manmade and natural features,” Advances in Space Research, Feb. 2021, doi: https://doi.org/10.1016/j.asr.2021.02.023.
 - Udit Asopa and Shashi Kumar, “UAVSAR Tomography for Vertical Profile Generation of Tropical Forest of Mondah National Park, Gabon,” Earth and Space Science, vol. 7, no. 10, Sep. 2020, doi: https://doi.org/10.1029/2020ea001230.

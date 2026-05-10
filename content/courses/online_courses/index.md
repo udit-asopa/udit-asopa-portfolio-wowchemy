@@ -1,6 +1,6 @@
----
+﻿---
 
-title: Courses & Certifications 🎓 ♾️ 🇺 👨🏻‍💻
+title: Courses & Certifications
 subtitle: Specialized learning in geospatial data, programming, project delivery, and Skill building
 summary: An interdisciplinary learning path spanning remote sensing, data science, version control, and project management. These certified courses expand my technical fluency, coding confidence, and team-oriented delivery practices—shaping a well-rounded professional profile.
 tags:
@@ -46,8 +46,8 @@ date: "2025-10-18"
 external_link: ""
 
 image:
-  caption: ''
-  focal_point: Smart
+ caption: ''
+ focal_point: Smart
 
 ---
 
@@ -61,9 +61,9 @@ image:
 **Skills**: *Flask (Web Framework) · Prompt Engineering · Generative AI · LLM Application · LangChain · Debugging · Generative AI Agents · Application Development · Software Development* <br>
 
 > Key Highlights
-> * Master the basics of  GenAI and the LangChain framework, focusing on how prompt engineering and in-context learning to enhance AI interactions 
-> * Apply prompt templates, chains, and agents to create flexible and context-aware AI applications using LangChain's modular approach 
-> * Develop a GenAI web application with Flask, integrating advanced features such as JSON output parsing for structured AI responses 
+> * Master the basics of GenAI and the LangChain framework, focusing on how prompt engineering and in-context learning to enhance AI interactions
+> * Apply prompt templates, chains, and agents to create flexible and context-aware AI applications using LangChain's modular approach
+> * Develop a GenAI web application with Flask, integrating advanced features such as JSON output parsing for structured AI responses
 > * Evaluate and compare different language models to select the most suitable for specific use cases, ensuring optimal performance and reliability <br>
 
 
@@ -193,7 +193,7 @@ image:
 ---
 <br>
 
-## 🚧 Ongoing Courses
+## Ongoing Courses
 
 ### McKinsey & Company
 #### [McKinsey Forward Program](https://www.mckinsey.com/forward/overview) *25%*
@@ -205,8 +205,8 @@ image:
 ### Helsinki Adult Education Institute
 #### [Intensive Beginner Swedish part 2 (A1.1)](https://uusi.opistopalvelut.fi/helsinginaikuisopisto/en/course/178203/)
 
-### Coursera 
-#### IBM -- [IBM RAG and Agentic AI: Build Next-Gen AI Assistants Professional Certificate](https://www.coursera.org/programs/iceye-technical-training-2fcvi/professional-certificates/ibm-rag-and-agentic-ai) 
+### Coursera
+#### IBM -- [IBM RAG and Agentic AI: Build Next-Gen AI Assistants Professional Certificate](https://www.coursera.org/programs/iceye-technical-training-2fcvi/professional-certificates/ibm-rag-and-agentic-ai)
 #### UC Davis -- [SQL Problem Solving](https://www.coursera.org/learn/data-wrangling-analysis-abtesting/home/welcome) *12%*
 
 ### OpenCV University
@@ -218,7 +218,7 @@ image:
 ---
 <br>
 
-## 🚧 Planned Courses
+## Planned Courses
 
 ### Coursera
 #### IBM -- [IBM Machine Learning with Python & Scikit-learn Professional Certificate](https://www.coursera.org/programs/iceye-technical-training-2fcvi/professional-certificates/ibm-machine-learning)
@@ -232,25 +232,25 @@ image:
 #### EPFL -- [Digital Signal Processing Specialization](https://www.coursera.org/programs/iceye-technical-training-2fcvi/specializations/digital-signal-processing)
 
 
-### Hubspot 
+### Hubspot
 #### [SEO Training: SEO Certification Course](https://academy.hubspot.com/courses/seo-training)
 
 ### Palantir
 #### [Data Scientist](https://learn.palantir.com/page/training-track-data-scientist)
 
 ### Huggingface
-#### [The Hugging Face AI Agents Course 🤗](https://huggingface.co/learn/agents-course/unit0/introduction)
+#### [The Hugging Face AI Agents Course](https://huggingface.co/learn/agents-course/unit0/introduction)
 
 ### LUT University - FiTECH
 #### [Introduction to DevOps](https://fitech.io/en/studies/introduction-to-devops/)
 
-### [Metropolia](https://hakija.oma.metropolia.fi/#) 
+### [Metropolia](https://hakija.oma.metropolia.fi/#)
 #### Finnish for Foreigners 1
 #### SQL and Relational Databases
 #### Power BI
 #### Probability and Statistics
 #### Microsoft Azure Fundamentals
-#### Introduction to Cybersecurity 
+#### Introduction to Cybersecurity
 #### Artificial Intelligence with Python
 
 ### Udemy

@@ -2,16 +2,21 @@
 title: ICEYE Wildfire Insights
 summary: ICEYE’s Wildfire Insights delivers rapid building-level damage assessments using SAR satellite imagery. I contributed to this product by developing and refining SAR-based change detection methodologies and geospatial damage mapping to support near-real-time wildfire impact analysis.
 tags:
-- SAR
-- Change Detection
 - ICEYE
+- Wildfire Response
+- Wildfire Damage Assessment
+- Building Damage Detection
+- SAR
 - X Band SAR
-- Remote Sensing
-- Wildfire
-- Natural Catastrophe
-- Insurance
-- Scientific Communication
+- Change Detection
 - Geospatial Intelligence
+- Earth Observation
+- Remote Sensing
+- Disaster Response
+- Emergency Analytics
+- Insurance Analytics
+- Risk Assessment
+- Rapid Impact Mapping
 date: "2023-08-01"
 
 external_link: ""
