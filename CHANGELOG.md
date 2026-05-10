@@ -5,9 +5,26 @@ All notable changes to this repository are documented in this file.
 ## Future changes
 
 ### Planned
-- Execute Phase 1 cleanup (unused media files, system files, demo content)
 - Review Phase 2 decisions (professional_courses, talk, slides directories)
 - See [CLEANUP_PLAN.md](docs/CLEANUP_PLAN.md) for comprehensive deep-dive analysis
+
+## 2026-05-10 (Phase 1 Deep-Dive Cleanup)
+
+### Removed
+- **Media files (7 files, 2.95 MB):**
+  - 3 unused CV versions: `Udit_Asopa_CV_1page.pdf`, `Udit_Asopa_CV_detailed.pdf`, `Udit_Asopa_CV_detailed_V2.pdf`
+  - 4 unused logos: `iceye_hurricane.png`, `iirs_logo.png`, `gravatar.png`, `Iceye-logo-black.png`
+- **System files (26 files):** All `.DS_Store` files across repository
+- **Placeholder files (5 files):** All `.gitkeep` files from empty directories
+- **Backup files (1 file):** `content/professional_courses/backup_index_md`
+- **Disabled widget (1 file):** `content/home/demo.md` (was inactive)
+
+### Impact
+- **Size savings:** 2.95 MB
+- **Files deleted:** 30 total
+- **Pages maintained:** 737 (verified no loss)
+- **Functionality:** 100% preserved
+- **Breaking changes:** None
 
 ## 2026-05-10 (Continued)
 
