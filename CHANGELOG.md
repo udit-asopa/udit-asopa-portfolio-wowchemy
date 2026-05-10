@@ -4,9 +4,13 @@ All notable changes to this repository are documented in this file.
 
 ## Future changes
 
-### Planned
-- Review Phase 2 decisions (professional_courses, talk, slides directories)
-- See [CLEANUP_PLAN.md](docs/CLEANUP_PLAN.md) for comprehensive deep-dive analysis
+### Phase 2 - Deferred (Decision Pending)
+Three content sections deferred for future review:
+- `content/slides/` — Demo example (decide: remove or keep?)
+- `content/talk/` — Conference archive (decide: archive or remove?)
+- `content/professional_courses/` — Index only (decide: expand or remove?)
+
+**Status:** Keeping all three sections for now. Will revisit archival strategy later.
 
 ## 2026-05-10 (Phase 1 Deep-Dive Cleanup)
 
