@@ -22,8 +22,10 @@ Three content sections deferred for future review:
   - https://spaceworkshop.fi/program2026.html
 - twoday and Databricks Lakehouse Bootcamp (Helsinki, 12 Feb 2026)
   - https://www.linkedin.com/posts/twoday_twoday-databricks-lakehouse-activity-7420043196409462784-4Nly?utm_source=share&utm_medium=member_desktop&rcm=ACoAAB0cs6IBgZO9XxrpQ5mpuo9zxX6W3jZ9wb4
-- Practical Deep Learning (CSC, April 2025)
+- Practical Deep Learning (CSC, April 2026)
   - https://csc.fi/en/training-calendar/practical-deep-learning-5/
+- Practical Machine Learning with Spatial Data (CSC, December 2026)
+  - https://csc.fi/en/training-calendar/practical-machine-learning-with-spatial-data-2/
 - Microsoft hackathons attended (December and February)
 
 #### Certifications and programs to add
