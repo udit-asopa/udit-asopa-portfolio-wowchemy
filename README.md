@@ -33,7 +33,23 @@ This website is developed using:
 
 ---
 
-## 📁 Repository Structure
+## � Local Development
+
+To run this website locally:
+
+```bash
+# Start Hugo development server
+bash ./view.sh
+
+# For theme updates (infrequent)
+bash ./docs/scripts/update_wowchemy.sh
+```
+
+See **[HUGO_SETUP_WSL.md](docs/HUGO_SETUP_WSL.md)** for comprehensive setup instructions including Hugo installation, Go setup, and WSL troubleshooting.
+
+---
+
+## �📁 Repository Structure
 
 ```bash
 .
