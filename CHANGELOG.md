@@ -2,6 +2,42 @@
 
 All notable changes to this repository are documented in this file.
 
+## Future changes
+
+### Phase 2 - Deferred (Decision Pending)
+Three content sections deferred for future review:
+- `content/slides/` — Demo example (decide: remove or keep?)
+- `content/talk/` — Conference archive (decide: archive or remove?)
+- `content/professional_courses/` — Index only (decide: expand or remove?)
+
+**Status:** Keeping all three sections for now. Will revisit archival strategy later.
+
+### Updates to make in future
+- Refresh recent highlights and update timeline sections with the items below.
+
+#### Events, Hackathons, and Workshops to add
+- Cassini Hackathon: EU Space Consumer Experience
+  - https://taikai.network/cassinihackathons/hackathons/eu-space-consumer-experience/overview
+- Winter Satellite Workshop 2026
+  - https://spaceworkshop.fi/program2026.html
+- twoday and Databricks Lakehouse Bootcamp (Helsinki, 12 Feb 2026)
+  - https://www.linkedin.com/posts/twoday_twoday-databricks-lakehouse-activity-7420043196409462784-4Nly?utm_source=share&utm_medium=member_desktop&rcm=ACoAAB0cs6IBgZO9XxrpQ5mpuo9zxX6W3jZ9wb4
+- Practical Deep Learning (CSC, April 2025)
+  - https://csc.fi/en/training-calendar/practical-deep-learning-5/
+- Microsoft hackathons attended (December and February)
+
+#### Certifications and programs to add
+- McKinsey Forward Program
+
+#### Talks and speaking updates to add
+- PyData Helsinki talk on Typer
+  - https://pydata-helsinki.github.io/
+- Short geospatial engineering talk at Startup Refugees and Engineers Without Borders (EWB)
+
+#### Community participation updates to add
+- PyData events attended (TEK, Elisa, RELEX)
+- Wolt events attended
+
 ---
 
 ## 2026-05-10 (Content Quality Enhancement — Phase 2)
@@ -129,16 +165,6 @@ ef0bc41 chore: repository cleanup and declutter
 
 ---
 
-## Future changes
-
-### Phase 2 - Deferred (Decision Pending)
-Three content sections deferred for future review:
-- `content/slides/` — Demo example (decide: remove or keep?)
-- `content/talk/` — Conference archive (decide: archive or remove?)
-- `content/professional_courses/` — Index only (decide: expand or remove?)
-
-**Status:** Keeping all three sections for now. Will revisit archival strategy later.
-
 ## 2026-05-10 (Documentation: Hugo Framework Guide)
 
 ### Added
@@ -194,13 +220,6 @@ Three content sections deferred for future review:
 - **Pages maintained:** 737 (verified no loss)
 - **Functionality:** 100% preserved
 - **Breaking changes:** None
-
-## 2026-05-10 (Continued)
-
-### Update
-- update the recent section
-- update the `updates` section properly
-- update the certificate/courses section with new achievements
 
 ## 2026-05-10
 
