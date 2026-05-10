@@ -13,7 +13,7 @@ summary: Udit Asopa is a Data Scientist and Geospatial AI Engineer with extensiv
 superuser: true
 
 # Role/position/tagline
-role: "Data Scientist (*official title: Geospatial Data Scientist*)"
+role: "Data Scientist | Geospatial Data Scientist"
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -128,5 +128,5 @@ Across organizations including Brockmann Geomatics and ICEYE, I have built scala
 
 I am particularly passionate about solving meaningful problems at the intersection of data science, AI, and Earth observation, whether for environmental sustainability, climate applications, business analytics, or scientific computing.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/UditAsopa_CV.pdf" "newtab" >}}detailed CV{{< /staticref >}}. I am always curious to know about interesting projects, collaboration opportunities, and seeking new adventures  [**GET IN TOUCH**](/#contact).
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/UditAsopa_CV.pdf" "newtab" >}}detailed CV{{< /staticref >}}. I am always open to interesting projects, collaboration opportunities, and new challenges. [**GET IN TOUCH**](/#contact).
 </div>

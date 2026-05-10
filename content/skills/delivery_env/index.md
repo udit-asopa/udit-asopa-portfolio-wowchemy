@@ -1,6 +1,6 @@
 ---
 title: 🚀 Delivery Environments
-subtitle: "I ensure data transforms into actionable insights seamlessly across platforms and users. My focus is on automation, reproducibility, and clear documentation, empowering teams to deploy, interpret, and trust data-driven solutions in real time. How I transform raw data into impact-driven outcomes"
+subtitle: "How I transform raw data into trusted, impact-driven outcomes through automation, reproducibility, and clear documentation"
 summary: I design and maintain robust data delivery environments that convert raw geospatial and remote sensing inputs into operational intelligence. From scalable SAR raster pipelines to collaborative dashboards and feature‑rich fusion outputs.
 tags:
 - Delivery Environment

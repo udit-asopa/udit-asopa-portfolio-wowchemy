@@ -68,7 +68,7 @@ url_slides: ""
 url_video: "https://youtu.be/2xquSq0MSAc"
 
 ---
-My strengths lie in breaking down complex challenges into actionable steps, fostering synergy across engineering, product, and science, and implementing efficient, repeatable workflows under tight timelines. I bring a rare blend of technical acumen and stakeholder-focused storytelling—ensuring clarity, credibility, and impact in every project I engage with. What I bring to high-performing, cross-disciplinary teams.
+My strengths lie in breaking down complex challenges into actionable steps, aligning engineering, product, and science teams, and implementing efficient, repeatable workflows under tight timelines. I combine technical depth with stakeholder-focused storytelling to deliver clarity, credibility, and impact. Below is what I bring to high-performing, cross-disciplinary teams.
 
 <table style="border-collapse: collapse; width: 100%; margin: 1rem 0;">
   <tr>

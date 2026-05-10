@@ -4,6 +4,22 @@ All notable changes to this repository are documented in this file.
 
 ---
 
+## 2026-05-10 (Content Quality Enhancement)
+
+**Branch:** `feat/cleaning_content`
+
+### Improved
+- Refined homepage section subtitles for stronger clarity and consistency across Skills, Projects, Education, Publications, Updates, and Contact widgets.
+- Polished profile wording in the author page for a more professional and concise presentation.
+- Improved selected skills page copy to reduce repetition and sharpen messaging.
+
+### Fixed
+- Corrected ICEYE experience logo reference to an existing media asset (`media/iceye.jpg`) to prevent broken image rendering.
+- Normalized location formatting (`Delft, Netherlands`) and cleaned spacing in experience descriptions.
+
+### Verification
+- Hugo build completed successfully in WSL (`736` pages generated, no build errors).
+
 ## 🎉 v2.1.0 - Repository Decluttering & Documentation (May 10, 2026)
 
 **Branch:** `feat/decluttered`

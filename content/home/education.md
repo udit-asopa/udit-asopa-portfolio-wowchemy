@@ -11,7 +11,7 @@ weight: 3
 
 # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
 title: <b>Education</b>
-subtitle: <b>My professional degrees</b>
+subtitle: <b>Academic foundation and professional qualifications</b>
 #'<p style="margin-top: 1rem; text-align:left;"><a href="courses/"><b>detailed description on my <br> Education, Courses & Certifications</b></a></p>'
 
 # Date format

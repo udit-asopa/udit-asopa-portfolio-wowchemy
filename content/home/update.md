@@ -12,7 +12,7 @@ weight: 8
 active: true
 
 title: "**Updates**"
-subtitle: 'Updates about my achievements and life'
+subtitle: 'Recent milestones, publications, and professional highlights'
 
 
 content:

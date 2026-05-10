@@ -10,7 +10,7 @@ headless: true
 weight: 9
 
 title: <b>Contact</b>
-subtitle:
+subtitle: Open to collaborations, consulting opportunities, and research conversations
 
 content:
   # Automatically link email and phone or display as text?

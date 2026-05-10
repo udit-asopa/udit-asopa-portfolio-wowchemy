@@ -12,7 +12,7 @@ weight: 5
 active: true
 
 title: "**Skills**"
-subtitle: 'Skills that I have acquired working with varied project in distributed capacities'
+subtitle: 'Capabilities built through cross-domain work in geospatial analytics, AI, and scientific software delivery'
 
 content:
   # Page type to display. E.g. project.

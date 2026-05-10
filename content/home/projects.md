@@ -12,7 +12,7 @@ weight: 6
 active: true
 
 title: "**Projects**"
-subtitle: 'Projects that I have actively worked on'
+subtitle: 'Selected projects spanning Earth observation, geospatial intelligence, and AI-enabled analytics'
 
 content:
   # Page type to display. E.g. project.
