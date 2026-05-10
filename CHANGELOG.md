@@ -12,6 +12,31 @@ Three content sections deferred for future review:
 
 **Status:** Keeping all three sections for now. Will revisit archival strategy later.
 
+## 2026-05-10 (Documentation: Hugo Framework Guide)
+
+### Added
+- **Comprehensive Hugo Documentation:** `docs/HUGO_FRAMEWORK.md`
+  - Complete guide to Hugo static site generator
+  - How Hugo works (build process, pipeline)
+  - Core concepts (content, frontmatter, pages, sections, taxonomies)
+  - Configuration explanation (config.toml, params.toml, menus.toml)
+  - Directory structure and content organization
+  - Themes and layouts (Wowchemy specifics)
+  - Asset processing (SCSS, images, static files)
+  - Build process and statistics
+  - Development workflow and local testing
+  - Deployment (Netlify auto-deployment)
+  - Performance optimization tips
+  - Troubleshooting guide
+  - Resources and references
+  - Quick command reference
+
+### Impact
+- Complete documentation of Hugo framework
+- Helpful for understanding website mechanics
+- Reference guide for development and troubleshooting
+- Covers both beginners and intermediate users
+
 ## 2026-05-10 (Root Directory Decluttering)
 
 ### Changed
