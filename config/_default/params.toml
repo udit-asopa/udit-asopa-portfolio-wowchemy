@@ -97,7 +97,7 @@ phone = "+358-403515447"
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "Kuusikallionkuja 3", city = "Espoo", region = "Uusimaa", postcode = "02210", country = "Finland", country_code = "FI"}
+address = {street = "Olari", city = "Espoo", region = "Uusimaa", postcode = "02210", country = "Finland", country_code = "FI"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.

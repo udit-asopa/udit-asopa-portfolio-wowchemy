@@ -38,14 +38,16 @@ This website is developed using:
 To run this website locally:
 
 ```bash
-# Start Hugo development server
-bash ./view.sh
+# Start the local Hugo site at http://localhost:1313/
+make run
+# Alternatively, use the explicit server target
+make server
 
 # For theme updates (infrequent)
 bash ./docs/scripts/update_wowchemy.sh
 ```
 
-See **[HUGO_SETUP_WSL.md](docs/HUGO_SETUP_WSL.md)** for comprehensive setup instructions including Hugo installation, Go setup, and WSL troubleshooting.
+Both targets download the Go module dependencies and start Hugo's development server. You need Go and Hugo Extended installed; see **[HUGO_SETUP_WSL.md](docs/HUGO_SETUP_WSL.md)** for setup instructions.
 
 ---
 

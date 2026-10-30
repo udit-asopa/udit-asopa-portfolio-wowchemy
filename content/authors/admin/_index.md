@@ -13,13 +13,13 @@ summary: Udit Asopa is a Data Scientist and Geospatial AI Engineer with extensiv
 superuser: true
 
 # Role/position/tagline
-role: "Data Scientist | Geospatial Data Scientist"
+role: "GIS Data Engineer | Geospatial AI Engineer"
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Brockmann Geomatics Sweden AB
-  url: https://www.brockmann-geomatics.se/
-  location: Espoo, Finland
+- name: NestAI Oy
+  url: https://www.nestai.com/
+  location: Helsinki, Finland
 
 # Short bio (displayed in user profile at end of posts)
 bio: I build reproducible Python workflows, machine learning solutions, and geospatial analytics systems that transform complex environmental and operational data into actionable insights for science, business, and decision-making.

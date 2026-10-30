@@ -1,7 +1,7 @@
 ﻿---
 title: "Geospatial Data Scientist | Scientific Software Engineer"
 subtitle: "Brockmann Geomatics Sweden AB, Finland"
-summary: At Brockmann Geomatics, I develop reproducible Python-based workflows and machine learning solutions for environmental and water analytics, contributing to international projects such as OASIS and AQUATIME that integrate Earth observation, AI, and scientific computing into decision-ready products.
+summary: At Brockmann Geomatics, I developed reproducible Python-based workflows and machine learning solutions for environmental and water analytics, contributing to international projects such as OASIS and AQUATIME that integrate Earth observation, AI, and scientific computing into decision-ready products.
 tags:
 - Data Science
 - Geospatial Data Science
@@ -46,19 +46,19 @@ image:
 
 <img src="/media/brockmann_geom_logo.png" alt="Brockmann Geomatics" style="width:100%; max-width:800px; margin: 2rem auto; display:block;">
 
-## **Developing AI-Powered Environmental Intelligence Systems**
+## **Developed AI-Powered Environmental Intelligence Systems**
 
-At Brockmann Geomatics, I work as a Data Scientist, developing production-grade Python workflows and machine learning solutions that transform large and heterogeneous Earth observation datasets into reliable analytical products. My work combines scientific software engineering, geospatial analytics, and applied artificial intelligence to support environmental monitoring, water analytics, and climate-related decision-making.
+At Brockmann Geomatics, I worked as a Data Scientist, developing production-grade Python workflows and machine learning solutions that transform large and heterogeneous Earth observation datasets into reliable analytical products. My work combined scientific software engineering, geospatial analytics, and applied artificial intelligence to support environmental monitoring, water analytics, and climate-related decision-making.
 
-I currently contribute to international initiatives including **AQUATIME**, a European Space Agency Sentinel User Preparation project advancing the use of future Copernicus CHIME and LSTM missions for aquatic ecosystem and biodiversity monitoring and **OASIS**, a Horizon Europe project focused on AI-powered Earth Intelligence for water resilience and ecosystem management.
+I contributed to international initiatives including **AQUATIME**, a European Space Agency Sentinel User Preparation project advancing the use of future Copernicus CHIME and LSTM missions for aquatic ecosystem and biodiversity monitoring and **OASIS**, a Horizon Europe project focused on AI-powered Earth Intelligence for water resilience and ecosystem management.
 
-The role sits at the intersection of Earth observation, scientific computing, and scalable software development, with strong emphasis on reproducibility, validation, and maintainable code.
+The role sat at the intersection of Earth observation, scientific computing, and scalable software development, with strong emphasis on reproducibility, validation, and maintainable code.
 
 ---
 
 ## **Core Responsibilities**
 
-My responsibilities include designing and maintaining end-to-end workflows that ingest, process, validate, and analyze multi-source geospatial and Earth observation datasets.
+My responsibilities included designing and maintaining end-to-end workflows that ingest, process, validate, and analyze multi-source geospatial and Earth observation datasets.
 
 ### My Contributions
 
@@ -85,7 +85,7 @@ OASIS is a four-year Horizon Europe project (Grant Agreement 110293392) that del
 
 The consortium brings together 16 leading organizations and 15 case-study areas across Europe, Africa, and South America, creating a globally connected platform for water resilience and sustainable ecosystem management. The project contributes directly to the European Green Deal and the United Nations Sustainable Development Goals, particularly SDG 6 (Clean Water and Sanitation) and SDG 14 (Life Below Water).
 
-At Brockmann Geomatics, I contribute as a Data Scientist to the development of scalable Python workflows, machine learning methods, and geospatial analytics pipelines that transform multi-source Earth observation and environmental datasets into reproducible, decision-ready intelligence products.
+At Brockmann Geomatics, I contributed as a Data Scientist to the development of scalable Python workflows, machine learning methods, and geospatial analytics pipelines that transform multi-source Earth observation and environmental datasets into reproducible, decision-ready intelligence products.
 
 The consortium is coordinated by the Finnish Environment Institute (SYKE) and includes internationally recognized partners such as Deltares, VITO, Finnish Meteorological Institute, Brockmann Consult, University of Tartu, Leipzig University, and several other research and industry organizations.
 
@@ -101,7 +101,7 @@ The consortium is coordinated by the Finnish Environment Institute (SYKE) and in
 
 ## **Professional Growth and Impact**
 
-This role is strengthening my capabilities in:
+This role strengthened my capabilities in:
 
 * Data Science and Applied AI
 * Scientific Software Engineering
@@ -109,7 +109,7 @@ This role is strengthening my capabilities in:
 * Geospatial Data Engineering
 * Reproducible Research and Experiment Tracking
 
-Working at Brockmann Geomatics allows me to combine deep technical expertise with meaningful environmental applications, building scalable systems that transform complex Earth observation data into actionable intelligence.
+Working at Brockmann Geomatics allowed me to combine deep technical expertise with meaningful environmental applications, building scalable systems that transform complex Earth observation data into actionable intelligence.
 
 > Additional Resources:
 > * Official Website: https://www.brockmann-geomatics.se/

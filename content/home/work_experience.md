@@ -22,17 +22,48 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+  - title: Member of Technical Staff
+    company: NestAI Oy
+    company_url: ''
+    location: Helsinki, Finland
+    date_start: '2026-09-01'
+    date_end: ''
+    url: content/experience/nestai/index.md
+    description: |2-
+      <p>
+      Working as a GIS Data Engineer at NestAI, building geospatial data pipelines and catalogue and serving infrastructure for Physical AI and Earth Observation workflows. Current tools include pgSTAC, Apache Polaris, Apache Iceberg, OGC APIs, TiTiler and GDAL.
+      </p>
+
+      <h5 style="text-align:center; margin-bottom: 0.5rem;">Key Professional & Technical Skills</h5>
+      <div style="display: flex; gap: 1rem; margin: 0; padding: 0;">
+        <ul style="margin: 0; padding-left: 0rem; list-style-position: inside;">
+          <li>Geospatial data engineering</li>
+          <li>Earth Observation data</li>
+        </ul>
+        <ul style="margin: 0; padding-left: 0rem; list-style-position: inside;">
+          <li>STAC catalogues (pgSTAC)</li>
+          <li>Apache Polaris & Iceberg</li>
+        </ul>
+        <ul style="margin: 0; padding-left: 0rem; list-style-position: inside;">
+          <li>OGC APIs & TiTiler</li>
+          <li>GDAL & geospatial services</li>
+        </ul>
+      </div>
+      <p style="margin-top: 1rem; text-align:center;">
+      <a href="experience/nestai/"><b>Read more about my work at NestAI</b></a>
+      </p>
+
   - title: Data Scientist
     company: Brockmann Geomatics Sweden AB
     company_url: 'http://www.brockmann-geomatics.se/'
     company_logo: media/brockmann_geom_logo.png
     location: Espoo, Finland
     date_start: '2026-01-15'
-    date_end: ''
+    date_end: '2026-08-31'
     url: content/experience/brockmann/index.md
     description: |2-
       <p>
-      Designing and maintaining production-grade Python workflows and machine learning solutions for environmental, water, and climate analytics. Integrating multi-source geospatial and Earth observation datasets into reproducible, decision-ready products for major international initiatives including OASIS (Horizon Europe) and AQUATIME (European Space Agency). Strong emphasis on scientific software engineering, data quality, validation, and traceability. (Python, SQL, GeoPandas, GDAL, Rasterio, MLflow, Git, Linux).
+      Designed and maintained production-grade Python workflows and machine learning solutions for environmental, water, and climate analytics. Integrated multi-source geospatial and Earth observation datasets into reproducible, decision-ready products for major international initiatives including OASIS (Horizon Europe) and AQUATIME (European Space Agency), with emphasis on scientific software engineering, data quality, validation, and traceability. (Python, SQL, GeoPandas, GDAL, Rasterio, MLflow, Git, Linux).
       </p>
 
       <h5 style="text-align:center; margin-bottom: 0.5rem;">Key Professional & Technical Skills</h5>

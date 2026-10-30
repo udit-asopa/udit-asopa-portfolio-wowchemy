@@ -425,4 +425,4 @@ Stay connected for more updates:
 
 ---
 
-*Last updated: October 2025*
+*Last updated: October 2026*

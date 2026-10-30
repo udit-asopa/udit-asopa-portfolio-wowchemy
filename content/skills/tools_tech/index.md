@@ -30,6 +30,13 @@ tags:
 - ArcGIS
 - Google Earth Engine
 - GDAL
+- pgSTAC
+- Apache Polaris
+- Apache Iceberg
+- OGC APIs
+- TiTiler
+- STAC
+- Cloud Optimized GeoTIFF
 - SNAP
 - SARscape
 - SAR Processing
@@ -38,7 +45,7 @@ tags:
 - Power BI
 - Data Visualization
 - Databricks
-date: "2025-07-01"
+date: "2026-10-30"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''
@@ -108,3 +115,11 @@ url_video: ""
     </td>
   </tr>
 </table>
+
+### Geospatial Data Infrastructure
+
+* **pgSTAC** — PostgreSQL-backed infrastructure for storing and querying STAC catalogue metadata.
+* **Apache Polaris and Apache Iceberg** — Catalogue and open table-format tooling for interoperable analytical data.
+* **OGC APIs** — Open standards for accessing geospatial data through interoperable web services.
+* **TiTiler** — Dynamic map tile services for cloud-optimized geospatial raster data.
+* **GDAL** — Tools and libraries for processing and translating raster and vector geospatial formats.

@@ -1,6 +1,6 @@
 # Hugo Framework: Comprehensive Guide
 
-**Last Updated:** May 10, 2026  
+**Last Updated:** Oct 30, 2026  
 **Hugo Version:** v0.123.7 (extended)  
 **Theme:** Wowchemy Academic
 
