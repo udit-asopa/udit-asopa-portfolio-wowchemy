@@ -7,7 +7,7 @@ first_name: Udit
 last_name: Asopa
 
 # Summary (shown on homepage and SEO description)
-summary: Udit Asopa is a Data Scientist and Geospatial AI Engineer with extensive experience in Python, machine learning, Earth observation, and large-scale environmental data analytics.
+summary: Udit Asopa is a GIS Data Engineer and Geospatial AI Engineer passionate about remote sensing, Earth observation, and building reliable geospatial data systems for environmental intelligence, disaster response, and Physical AI.
 
 # Is this the primary user of the site?
 superuser: true
@@ -22,22 +22,20 @@ organizations:
   location: Helsinki, Finland
 
 # Short bio (displayed in user profile at end of posts)
-bio: I build reproducible Python workflows, machine learning solutions, and geospatial analytics systems that transform complex environmental and operational data into actionable insights for science, business, and decision-making.
+bio: I build geospatial data pipelines and Earth observation solutions, bringing together remote sensing, software engineering, and a curiosity for what technology can make possible.
 
 # Interests to show in About widget
 interests:
-- Data Science & Machine Learning
-- Earth Observation & Satellite Analytics
-- Geospatial Data Engineering
-- Scientific Software Engineering
-- Time-Series Analysis & Forecasting
-- Artificial Intelligence & Generative AI
-- Python Development & Automation
-- Cloud & MLOps
-- Environmental Intelligence
-- Research Software Engineering
-- Decision Support Systems
-- Scalable Data Pipelines
+- Remote Sensing, SAR & Earth Observation
+- Geospatial Data Engineering & Cloud-Native GIS
+- GeoAI, Machine Learning & Spatial Analytics
+- STAC, OGC APIs & Interoperable Data Systems
+- Environmental, Water & Climate Intelligence
+- Disaster Response & Operational Geospatial Products
+- Physical AI & Real-World Data Systems
+- Python, Open-Source Geospatial Tools & Automation
+- Reliable Data Pipelines, Quality & Observability
+- Emerging Technologies & Continuous Learning
 
 # Education to show in About widget
 education:
@@ -122,11 +120,11 @@ design:
 </style>
 
 <div style="text-align: justify;">
-I am a Data Scientist and Geospatial AI Engineer with more than five years of experience developing production-grade Python workflows, machine learning models, and large-scale analytics systems for Earth observation and environmental intelligence. My work combines scientific rigor, software engineering, and applied artificial intelligence to transform complex satellite and operational data into reliable, decision-ready insights.
+I am a GIS Data Engineer and Geospatial AI Engineer with more than five years of experience turning complex spatial data into useful, dependable products. Remote sensing is more than my specialty—it is the thread connecting my work, from SAR and InSAR research to Earth observation, environmental intelligence, and operational mapping. I love finding new ways to make the world visible through data, then building the software and infrastructure that help others act on what they see.
 
-Across organizations including Brockmann Geomatics and ICEYE, I have built scalable data pipelines, automated validation frameworks, and machine learning solutions supporting disaster response, infrastructure monitoring, and operational analytics. My expertise spans Python, SQL, machine learning, time-series analysis, geospatial analytics, and Generative AI, with growing focus on cloud technologies and MLOps.
+My path has taken me from radar remote-sensing research and ground-deformation analysis to SAR-powered hurricane and wildfire response, and environmental and water analytics. Today at NestAI, I build geospatial data infrastructure for real-world systems, working with tools including Python, GDAL, pgSTAC, Apache Polaris, Apache Iceberg, OGC APIs, and TiTiler. Across these domains, I care about making data pipelines interoperable, reproducible, and reliable enough to support real decisions.
 
-I am particularly passionate about solving meaningful problems at the intersection of data science, AI, and Earth observation, whether for environmental sustainability, climate applications, business analytics, or scientific computing.
+I am curious by nature, ambitious about the problems I take on, and energized by learning what emerging technology can make possible. I enjoy moving from an unfamiliar challenge to a working solution—keeping up with new tools while staying grounded in sound engineering and practical outcomes. My goal is to keep building at the intersection of geospatial engineering, remote sensing, and AI, creating technology that helps people better understand and respond to a changing world.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/UditAsopa_CV.pdf" "newtab" >}}detailed CV{{< /staticref >}}. I am always open to interesting projects, collaboration opportunities, and new challenges. [**GET IN TOUCH**](/#contact).
 </div>
